@@ -1,0 +1,61 @@
+.compare-form {
+    display: grid;
+    grid-template-rows: 50px 40px 40px 50px;
+    grid-gap: 10px;
+    background-image: linear-gradient(to bottom, rgb(91, 91, 91), #000);
+    width: 150%;
+}
+
+.div-form {
+    display: grid;
+    justify-content: center;
+    width: 90%;
+    border-top: 1px solid rgb(147, 147, 147);
+    padding-top: 30px;
+}
+
+.header-form {
+    text-align: center;
+    width: 100%;
+    background-image: linear-gradient(to bottom, rgb(0, 22, 162), rgb(0, 11, 83));
+    color: white;
+    padding-top: 10px;
+    font-size: 1.2em;
+}
+
+.select-country {
+    height: 50px;
+    color: white;
+    border: none;
+    text-align: center;
+}
+
+.select-country1 {
+    background-image: linear-gradient(to bottom, rgb(58, 58, 58), #000);
+}
+
+.select-country2 {
+    background-image: linear-gradient(to bottom, rgb(58, 58, 58), #000);
+}
+
+.btn-form-compare {
+    border-top: 8px solid #FC0;
+    background-image: linear-gradient(to bottom, #FC0, rgb(107, 85, 1));
+    border: none;
+    cursor: pointer;
+}
+
+.btn-form-compare:hover {
+    background-image: linear-gradient(to bottom, rgb(159, 127, 0), rgb(69, 55, 1));
+    color: white;
+}
+
+.option-select {
+    background-color: black;
+}
+
+@media screen and (max-width:650px) {
+    .compare-form {
+        width: 100%
+    }
+}

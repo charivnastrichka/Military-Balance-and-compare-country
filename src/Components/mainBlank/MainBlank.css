@@ -1,0 +1,57 @@
+main{
+    padding: 20px;
+}
+.info-part-with-img{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.h1_info-part{
+    font-weight: bold;
+    font-size: calc(42px + 6 * ((100vw - 320px)/680));
+    font-weight: 600;
+    display: inline;
+    line-height: 120%;
+    padding-bottom: 3px; 
+}
+.text-under-h1{
+    padding: 30px 0;
+    color: #999;;
+    border-bottom: 1px solid rgb(148, 148, 148);
+}
+.main-text{
+    width: 100%;
+    max-width: 600px;
+    float: left;
+    line-height: 35px;
+    box-sizing: border-box;
+}
+.h3_main-text,.text-bold{
+    font-weight: 600;
+}
+.txt{
+    margin-bottom: 20px;
+}
+.img-earth-div{
+       display: grid;
+    justify-items: right;
+}
+.img-earth{
+    width: 90%;
+    max-width: 600px;
+    border-bottom: 8px solid #036;
+}
+.text-green{
+    color: #090;
+}
+.text-grey{
+    color: #666;
+}
+.text-red{
+    color: #C00;
+}
+.note-text{
+    font-style: italic;
+    user-select: none;
+    font-size: 0.75em;
+    color: #333;
+}

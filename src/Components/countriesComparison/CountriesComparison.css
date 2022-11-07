@@ -1,0 +1,179 @@
+.blue {
+    color: #3366cc;
+}
+
+.red {
+    color: #dc3912;
+}
+
+.compare-a {
+    color: rgb(0, 0, 0);
+}
+
+.header_compare-div-charact {
+    display: grid;
+    grid-template-columns: 59px auto 59px;
+    justify-content: space-between;
+    background-image: linear-gradient(to bottom, rgb(137, 2, 2), #000);
+    color: white;
+    height: 40px;
+    font-size: 1.5em;
+}
+
+.header_compare-div-charact img {
+    height: 40px;
+}
+
+.country1-character-name {
+    display: block;
+    font-weight: bold;
+    color: #3366cc;
+    font-size: 1.5em;
+}
+
+.country2-character-name {
+    font-weight: bold;
+    color: #dc3912;
+    font-size: 1.5em;
+    height: 40px;
+}
+
+.country-pwrIndex {
+    background-color: black;
+    color: rgb(151, 115, 9);
+    width: 160px;
+    padding: 5px;
+    margin-bottom: 5px;
+    display: grid;
+    align-content: center;
+    justify-content: center;
+
+}
+
+.country-chracter {
+    display: grid;
+    grid-template-rows: 40px 40px 40px 40px;
+    justify-items: center;
+    background-color: rgb(238, 238, 238);
+    align-items: center;
+
+
+}
+
+.country1-chracter {
+    display: grid;
+    border: 1px solid rgb(189, 189, 189);
+    border-top: 7px solid #3366cc;
+
+}
+
+.country2-chracter {
+    display: grid;
+    border: 1px solid rgb(189, 189, 189);
+    border-top: 7px solid #dc3912;
+
+}
+
+.country-chracter-div {
+    display: grid;
+    grid-template-columns: auto auto;
+    margin-bottom: 30px;
+}
+
+.country-rank {
+    font-weight: 600;
+    color: #022977;
+}
+
+.total-population {
+    font-weight: 600;
+}
+
+.green-dif {
+    color: green;
+    font-weight: 600;
+}
+
+.red-dif {
+    color: red;
+    font-weight: 600;
+}
+
+/* statistic */
+.country1-statistic-block {
+    width: 25px;
+    height: 12px;
+    margin: 0px 5px;
+}
+
+.name-country-statistic-block {
+    font-size: 70%;
+    margin-right: 15px;
+
+}
+
+.header-statistic-div {
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    justify-content: left;
+}
+
+.red-block {
+    background-color: #dc3912
+}
+
+.red-block:hover {
+    background-color: #9d2203
+}
+
+.blue-block {
+    background-color: #3366cc;
+}
+
+.blue-block:hover {
+    background-color: #133e94;
+}
+
+.statistic-line {
+    width: 100%;
+    margin-top: 30px;
+    height: 30px;
+    margin-bottom: 60px;
+    display: grid;
+}
+
+.statistic-line-country {
+    text-align: center;
+    height: 30px;
+}
+
+.statistic-line-country1 {
+    border-right: 4px solid rgb(0, 0, 0);
+}
+
+.count-for-statistic {
+    color: white;
+    font-size: 70%;
+}
+
+@media screen and (max-width:890px) {
+
+    .country-chracter {
+        display: grid;
+        grid-template-rows: 80px 60px 50px 50px;
+        justify-items: center;
+        background-color: rgb(238, 238, 238);
+        align-items: center;
+    }
+}
+
+@media screen and (max-width:650px) {
+
+    .country-chracter {
+        display: grid;
+        grid-template-rows: 100px 100px 50px 50px;
+        justify-items: center;
+        background-color: rgb(238, 238, 238);
+        align-items: center;
+    }
+}

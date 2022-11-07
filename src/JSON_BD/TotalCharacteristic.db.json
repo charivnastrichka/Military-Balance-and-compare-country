@@ -1,0 +1,6131 @@
+{
+  "countries":[
+    {
+      "numberOnRating": 1,
+      "country": "United States"
+    },
+    {
+      "numberOnRating": 2,
+      "country": "Russia"
+    },
+    {
+      "numberOnRating": 3,
+      "country": "China"
+    },
+    {
+      "numberOnRating": 4,
+      "country": "India"
+    },
+    {
+      "numberOnRating": 5,
+      "country": "Japan"
+    },
+    {
+      "numberOnRating": 6,
+      "country": "South Korea"
+    },
+    {
+      "numberOnRating": 7,
+      "country": "France"
+    },
+    {
+      "numberOnRating": 8,
+      "country": "United Kingdom"
+    },
+    {
+      "numberOnRating": 9,
+      "country": "Pakistan"
+    },
+    {
+      "numberOnRating": 10,
+      "country": "Brazil"
+    },
+    {
+      "numberOnRating": 11,
+      "country": "Italy"
+    },
+    {
+      "numberOnRating": 12,
+      "country": "Egypt"
+    },
+    {
+      "numberOnRating": 13,
+      "country": "Turkey"
+    },
+    {
+      "numberOnRating": 14,
+      "country": "Iran"
+    },
+    {
+      "numberOnRating": 15,
+      "country": "Indonesia"
+    },
+    {
+      "numberOnRating": 16,
+      "country": "Germany"
+    },
+    {
+      "numberOnRating": 17,
+      "country": "Australia"
+    },
+    {
+      "numberOnRating": 18,
+      "country": "Israel"
+    },
+    {
+      "numberOnRating": 19,
+      "country": "Spain"
+    },
+    {
+      "numberOnRating": 20,
+      "country": "Saudi Arabia"
+    },
+    {
+      "numberOnRating": 21,
+      "country": "Taiwan"
+    },
+    {
+      "numberOnRating": 22,
+      "country": "Ukraine"
+    },
+    {
+      "numberOnRating": 23,
+      "country": "Canada"
+    },
+    {
+      "numberOnRating": 24,
+      "country": "Poland"
+    },
+    {
+      "numberOnRating": 25,
+      "country": "Sweden"
+    },
+    {
+      "numberOnRating": 26,
+      "country": "South Africa"
+    },
+    {
+      "numberOnRating": 27,
+      "country": "Greece"
+    },
+    {
+      "numberOnRating": 28,
+      "country": "Vietnam"
+    },
+    {
+      "numberOnRating": 29,
+      "country": "Thailand"
+    },
+    {
+      "numberOnRating": 30,
+      "country": "North Korea"
+    },
+    {
+      "numberOnRating": 31,
+      "country": "Algeria"
+    },
+    {
+      "numberOnRating": 32,
+      "country": "Switzerland"
+    },
+    {
+      "numberOnRating": 33,
+      "country": "Norway"
+    },
+    {
+      "numberOnRating": 34,
+      "country": "Iraq"
+    },
+    {
+      "numberOnRating": 35,
+      "country": "Nigeria"
+    },
+    {
+      "numberOnRating": 36,
+      "country": "United Arab Emirates"
+    },
+    {
+      "numberOnRating": 37,
+      "country": "Netherlands"
+    },
+    {
+      "numberOnRating": 38,
+      "country": "Romania"
+    },
+    {
+      "numberOnRating": 39,
+      "country": "Myanmar"
+    },
+    {
+      "numberOnRating": 40,
+      "country": "Argentina"
+    },
+    {
+      "numberOnRating": 41,
+      "country": "Czechia"
+    },
+    {
+      "numberOnRating": 42,
+      "country": "Singapore"
+    },
+    {
+      "numberOnRating": 43,
+      "country": "Mexico"
+    },
+    {
+      "numberOnRating": 44,
+      "country": "Colombia"
+    },
+    {
+      "numberOnRating": 45,
+      "country": "Venezuela"
+    },
+    {
+      "numberOnRating": 46,
+      "country": "Bangladesh"
+    },
+    {
+      "numberOnRating": 47,
+      "country": "Syria"
+    },
+    {
+      "numberOnRating": 48,
+      "country": "Malaysia"
+    },
+    {
+      "numberOnRating": 49,
+      "country": "Portugal"
+    },
+    {
+      "numberOnRating": 50,
+      "country": "Peru"
+    },
+    {
+      "numberOnRating": 51,
+      "country": "Philippines"
+    },
+    {
+      "numberOnRating": 52,
+      "country": "Belarus"
+    },
+    {
+      "numberOnRating": 53,
+      "country": "Finland"
+    },
+    {
+      "numberOnRating": 54,
+      "country": "Chile"
+    },
+    {
+      "numberOnRating": 55,
+      "country": "Uzbekistan"
+    },
+    {
+      "numberOnRating": 56,
+      "country": "Morocco"
+    },
+    {
+      "numberOnRating": 57,
+      "country": "Hungary"
+    },
+    {
+      "numberOnRating": 58,
+      "country": "Denmark"
+    },
+    {
+      "numberOnRating": 59,
+      "country": "Austria"
+    },
+    {
+      "numberOnRating": 60,
+      "country": "Slovakia"
+    },
+    {
+      "numberOnRating": 61,
+      "country": "Serbia"
+    },
+    {
+      "numberOnRating": 62,
+      "country": "Croatia"
+    },
+    {
+      "numberOnRating": 63,
+      "country": "Azerbaijan"
+    },
+    {
+      "numberOnRating": 64,
+      "country": "Kazakhstan"
+    },
+    {
+      "numberOnRating": 65,
+      "country": "Ethiopia"
+    },
+    {
+      "numberOnRating": 66,
+      "country": "Angola"
+    },
+    {
+      "numberOnRating": 67,
+      "country": "Bulgaria"
+    },
+    {
+      "numberOnRating": 68,
+      "country": "Ecuador"
+    },
+    {
+      "numberOnRating": 69,
+      "country": "Belgium"
+    },
+    {
+      "numberOnRating": 70,
+      "country": "Cuba"
+    },
+    {
+      "numberOnRating": 71,
+      "country": "Kuwait"
+    },
+    {
+      "numberOnRating": 72,
+      "country": "Libya"
+    },
+    {
+      "numberOnRating": 73,
+      "country": "Sudan"
+    },
+    {
+      "numberOnRating": 74,
+      "country": "Tunisia"
+    },
+    {
+      "numberOnRating": 75,
+      "country": "Jordan"
+    },
+    {
+      "numberOnRating": 76,
+      "country": "Democratic Republic of the Congo"
+    },
+    {
+      "numberOnRating": 77,
+      "country": "Qatar"
+    },
+    {
+      "numberOnRating": 78,
+      "country": "Oman"
+    },
+    {
+      "numberOnRating": 79,
+      "country": "Sri Lanka"
+    },
+    {
+      "numberOnRating": 80,
+      "country": "Yemen"
+    },
+    {
+      "numberOnRating": 81,
+      "country": "Kenya"
+    },
+    {
+      "numberOnRating": 82,
+      "country": "Bolivia"
+    },
+    {
+      "numberOnRating": 83,
+      "country": "Turkmenistan"
+    },
+    {
+      "numberOnRating": 84,
+      "country": "New Zealand"
+    },
+    {
+      "numberOnRating": 85,
+      "country": "Lithuania"
+    },
+    {
+      "numberOnRating": 86,
+      "country": "Slovenia"
+    },
+    {
+      "numberOnRating": 87,
+      "country": "Chad"
+    },
+    {
+      "numberOnRating": 88,
+      "country": "Georgia"
+    },
+    {
+      "numberOnRating": 89,
+      "country": "Zambia"
+    },
+    {
+      "numberOnRating": 90,
+      "country": "Kyrgyzstan"
+    },
+    {
+      "numberOnRating": 91,
+      "country": "Guatemala"
+    },
+    {
+      "numberOnRating": 92,
+      "country": "Uganda"
+    },
+    {
+      "numberOnRating": 93,
+      "country": "Zimbabwe"
+    },
+    {
+      "numberOnRating": 94,
+      "country": "Moldova"
+    },
+    {
+      "numberOnRating": 95,
+      "country": "Latvia"
+    },
+    {
+      "numberOnRating": 96,
+      "country": "Ghana"
+    },
+    {
+      "numberOnRating": 97,
+      "country": "Ireland"
+    },
+    {
+      "numberOnRating": 98,
+      "country": "Armenia"
+    },
+    {
+      "numberOnRating": 99,
+      "country": "Bahrain"
+    },
+    {
+      "numberOnRating": 100,
+      "country": "Mali"
+    },
+    {
+      "numberOnRating": 101,
+      "country": "Cambodia"
+    },
+    {
+      "numberOnRating": 102,
+      "country": "Mongolia"
+    },
+    {
+      "numberOnRating": 103,
+      "country": "Uruguay"
+    },
+    {
+      "numberOnRating": 104,
+      "country": "South Sudan"
+    },
+    {
+      "numberOnRating": 105,
+      "country": "Cameroon"
+    },
+    {
+      "numberOnRating": 106,
+      "country": "Niger"
+    },
+    {
+      "numberOnRating": 107,
+      "country": "Botswana"
+    },
+    {
+      "numberOnRating": 108,
+      "country": "Estonia"
+    },
+    {
+      "numberOnRating": 109,
+      "country": "Honduras"
+    },
+    {
+      "numberOnRating": 110,
+      "country": "Paraguay"
+    },
+    {
+      "numberOnRating": 111,
+      "country": "Tajikistan"
+    },
+    {
+      "numberOnRating": 112,
+      "country": "Ivory Coast"
+    },
+    {
+      "numberOnRating": 113,
+      "country": "Tanzania"
+    },
+    {
+      "numberOnRating": 114,
+      "country": "Lebanon"
+    },
+    {
+      "numberOnRating": 115,
+      "country": "Albania"
+    },
+    {
+      "numberOnRating": 116,
+      "country": "Mozambique"
+    },
+    {
+      "numberOnRating": 117,
+      "country": "Republic of the Congo"
+    },
+    {
+      "numberOnRating": 118,
+      "country": "Afghanistan"
+    },
+    {
+      "numberOnRating": 119,
+      "country": "Nepal"
+    },
+    {
+      "numberOnRating": 120,
+      "country": "Dominican Republic"
+    },
+    {
+      "numberOnRating": 121,
+      "country": "Laos"
+    },
+    {
+      "numberOnRating": 122,
+      "country": "Nicaragua"
+    },
+    {
+      "numberOnRating": 123,
+      "country": "Bosnia and Herzegovina"
+    },
+    {
+      "numberOnRating": 124,
+      "country": "Eritrea"
+    },
+    {
+      "numberOnRating": 125,
+      "country": "Mauritania"
+    },
+    {
+      "numberOnRating": 126,
+      "country": "Namibia"
+    },
+    {
+      "numberOnRating": 127,
+      "country": "El Salvador"
+    },
+    {
+      "numberOnRating": 128,
+      "country": "Madagascar"
+    },
+    {
+      "numberOnRating": 129,
+      "country": "Luxembourg"
+    },
+    {
+      "numberOnRating": 130,
+      "country": "Burkina Faso"
+    },
+    {
+      "numberOnRating": 131,
+      "country": "Gabon"
+    },
+    {
+      "numberOnRating": 132,
+      "country": "Montenegro"
+    },
+    {
+      "numberOnRating": 133,
+      "country": "Panama"
+    },
+    {
+      "numberOnRating": 134,
+      "country": "Central African Republic"
+    },
+    {
+      "numberOnRating": 135,
+      "country": "North Macedonia"
+    },
+    {
+      "numberOnRating": 136,
+      "country": "Suriname"
+    },
+    {
+      "numberOnRating": 137,
+      "country": "Sierra Leone"
+    },
+    {
+      "numberOnRating": 138,
+      "country": "Liberia"
+    },
+    {
+      "numberOnRating": 139,
+      "country": "Somalia"
+    },
+    {
+      "numberOnRating": 140,
+      "country": "Kosovo"
+    },
+    {
+      "numberOnRating": 141,
+      "country": "Bhutan"
+    },
+    {
+      "number": 142,
+      "country": "Iceland"
+    }
+  ],
+
+  "AirPower":[
+    {
+      "country": "United States",
+      "ratingAirPower": "1",
+      "airPower": "13,247"
+    },
+    {
+      "country": "Russia",
+      "ratingAirPower": "2",
+      "airPower": "4,173"
+    },
+    {
+      "country": "China",
+      "ratingAirPower": "3",
+      "airPower": "3,285"
+    },
+    {
+      "country": "India",
+      "ratingAirPower": "4",
+      "airPower": "2,182"
+    },
+    {
+      "country": "South Korea",
+      "ratingAirPower": "5",
+      "airPower": "1,595"
+    },
+    {
+      "country": "Japan",
+      "ratingAirPower": "6",
+      "airPower": "1,449"
+    },
+    {
+      "country": "Pakistan",
+      "ratingAirPower": "7",
+      "airPower": "1,387"
+    },
+    {
+      "country": "Egypt",
+      "ratingAirPower": "8",
+      "airPower": "1,062"
+    },
+    {
+      "country": "Turkey",
+      "ratingAirPower": "9",
+      "airPower": "1,057"
+    },
+    {
+      "country": "France",
+      "ratingAirPower": "10",
+      "airPower": "1,055"
+    },
+    {
+      "country": "North Korea",
+      "ratingAirPower": "11",
+      "airPower": "946"
+    },
+    {
+      "country": "Saudi Arabia",
+      "ratingAirPower": "12",
+      "airPower": "897"
+    },
+    {
+      "country": "Italy",
+      "ratingAirPower": "13",
+      "airPower": "862"
+    },
+    {
+      "country": "Taiwan",
+      "ratingAirPower": "14",
+      "airPower": "741"
+    },
+    {
+      "country": "United Kingdom",
+      "ratingAirPower": "15",
+      "airPower": "693"
+    },
+    {
+      "country": "Brazil",
+      "ratingAirPower": "16",
+      "airPower": "679"
+    },
+    {
+      "country": "Greece",
+      "ratingAirPower": "17",
+      "airPower": "633"
+    },
+    {
+      "country": "Germany",
+      "ratingAirPower": "18",
+      "airPower": "617"
+    },
+    {
+      "country": "Israel",
+      "ratingAirPower": "19",
+      "airPower": "597"
+    },
+    {
+      "country": "United Arab Emirates",
+      "ratingAirPower": "20",
+      "airPower": "554"
+    },
+    {
+      "country": "Algeria",
+      "ratingAirPower": "21",
+      "airPower": "552"
+    },
+    {
+      "country": "Iran",
+      "ratingAirPower": "22",
+      "airPower": "543"
+    },
+    {
+      "country": "Spain",
+      "ratingAirPower": "23",
+      "airPower": "503"
+    },
+    {
+      "country": "Mexico",
+      "ratingAirPower": "24",
+      "airPower": "469"
+    },
+    {
+      "country": "Thailand",
+      "ratingAirPower": "25",
+      "airPower": "469"
+    },
+    {
+      "country": "Colombia",
+      "ratingAirPower": "26",
+      "airPower": "454"
+    },
+    {
+      "country": "Poland",
+      "ratingAirPower": "27",
+      "airPower": "452"
+    },
+    {
+      "country": "Syria",
+      "ratingAirPower": "28",
+      "airPower": "452"
+    },
+    {
+      "country": "Indonesia",
+      "ratingAirPower": "29",
+      "airPower": "445"
+    },
+    {
+      "country": "Australia",
+      "ratingAirPower": "30",
+      "airPower": "430"
+    },
+    {
+      "country": "Canada",
+      "ratingAirPower": "31",
+      "airPower": "380"
+    },
+    {
+      "country": "Iraq",
+      "ratingAirPower": "32",
+      "airPower": "361"
+    },
+    {
+      "country": "Ukraine",
+      "ratingAirPower": "33",
+      "airPower": "318"
+    },
+    {
+      "country": "Angola",
+      "ratingAirPower": "34",
+      "airPower": "299"
+    },
+    {
+      "country": "Chile",
+      "ratingAirPower": "35",
+      "airPower": "290"
+    },
+    {
+      "country": "Myanmar",
+      "ratingAirPower": "36",
+      "airPower": "280"
+    },
+    {
+      "country": "Venezuela",
+      "ratingAirPower": "37",
+      "airPower": "256"
+    },
+    {
+      "country": "Jordan",
+      "ratingAirPower": "38",
+      "airPower": "255"
+    },
+    {
+      "country": "Morocco",
+      "ratingAirPower": "39",
+      "airPower": "249"
+    },
+    {
+      "country": "Singapore",
+      "ratingAirPower": "40",
+      "airPower": "244"
+    },
+    {
+      "country": "Peru",
+      "ratingAirPower": "41",
+      "airPower": "243"
+    },
+    {
+      "country": "Kazakhstan",
+      "ratingAirPower": "42",
+      "airPower": "237"
+    },
+    {
+      "country": "South Africa",
+      "ratingAirPower": "43",
+      "airPower": "225"
+    },
+    {
+      "country": "Argentina",
+      "ratingAirPower": "44",
+      "airPower": "218"
+    },
+    {
+      "country": "Vietnam",
+      "ratingAirPower": "45",
+      "airPower": "218"
+    },
+    {
+      "country": "Sweden",
+      "ratingAirPower": "46",
+      "airPower": "204"
+    },
+    {
+      "country": "Belarus",
+      "ratingAirPower": "47",
+      "airPower": "201"
+    },
+    {
+      "country": "Uzbekistan",
+      "ratingAirPower": "48",
+      "airPower": "200"
+    },
+    {
+      "country": "Finland",
+      "ratingAirPower": "49",
+      "airPower": "192"
+    },
+    {
+      "country": "Sudan",
+      "ratingAirPower": "50",
+      "airPower": "192"
+    },
+    {
+      "country": "Bangladesh",
+      "ratingAirPower": "51",
+      "airPower": "190"
+    },
+    {
+      "country": "Philippines",
+      "ratingAirPower": "52",
+      "airPower": "182"
+    },
+    {
+      "country": "Yemen",
+      "ratingAirPower": "53",
+      "airPower": "177"
+    },
+    {
+      "country": "Qatar",
+      "ratingAirPower": "54",
+      "airPower": "165"
+    },
+    {
+      "country": "Norway",
+      "ratingAirPower": "55",
+      "airPower": "161"
+    },
+    {
+      "country": "Switzerland",
+      "ratingAirPower": "56",
+      "airPower": "158"
+    },
+    {
+      "country": "Netherlands",
+      "ratingAirPower": "57",
+      "airPower": "156"
+    },
+    {
+      "country": "Kenya",
+      "ratingAirPower": "58",
+      "airPower": "151"
+    },
+    {
+      "country": "Tunisia",
+      "ratingAirPower": "59",
+      "airPower": "151"
+    },
+    {
+      "country": "Azerbaijan",
+      "ratingAirPower": "60",
+      "airPower": "149"
+    },
+    {
+      "country": "Romania",
+      "ratingAirPower": "61",
+      "airPower": "147"
+    },
+    {
+      "country": "Malaysia",
+      "ratingAirPower": "62",
+      "airPower": "144"
+    },
+    {
+      "country": "Nigeria",
+      "ratingAirPower": "63",
+      "airPower": "140"
+    },
+    {
+      "country": "Oman",
+      "ratingAirPower": "64",
+      "airPower": "128"
+    },
+    {
+      "country": "Libya",
+      "ratingAirPower": "65",
+      "airPower": "127"
+    },
+    {
+      "country": "Serbia",
+      "ratingAirPower": "66",
+      "airPower": "117"
+    },
+    {
+      "country": "Belgium",
+      "ratingAirPower": "67",
+      "airPower": "115"
+    },
+    {
+      "country": "Denmark",
+      "ratingAirPower": "68",
+      "airPower": "115"
+    },
+    {
+      "country": "Ecuador",
+      "ratingAirPower": "69",
+      "airPower": "113"
+    },
+    {
+      "country": "Bahrain",
+      "ratingAirPower": "70",
+      "airPower": "110"
+    },
+    {
+      "country": "Austria",
+      "ratingAirPower": "71",
+      "airPower": "102"
+    },
+    {
+      "country": "Kuwait",
+      "ratingAirPower": "72",
+      "airPower": "99"
+    },
+    {
+      "country": "Portugal",
+      "ratingAirPower": "73",
+      "airPower": "97"
+    },
+    {
+      "country": "Zambia",
+      "ratingAirPower": "74",
+      "airPower": "97"
+    },
+    {
+      "country": "Czechia",
+      "ratingAirPower": "75",
+      "airPower": "92"
+    },
+    {
+      "country": "Ethiopia",
+      "ratingAirPower": "76",
+      "airPower": "90"
+    },
+    {
+      "country": "Zimbabwe",
+      "ratingAirPower": "77",
+      "airPower": "90"
+    },
+    {
+      "country": "Sri Lanka",
+      "ratingAirPower": "78",
+      "airPower": "86"
+    },
+    {
+      "country": "Turkmenistan",
+      "ratingAirPower": "79",
+      "airPower": "82"
+    },
+    {
+      "country": "Cuba",
+      "ratingAirPower": "80",
+      "airPower": "80"
+    },
+    {
+      "country": "Croatia",
+      "ratingAirPower": "81",
+      "airPower": "78"
+    },
+    {
+      "country": "Lebanon",
+      "ratingAirPower": "82",
+      "airPower": "76"
+    },
+    {
+      "country": "Bulgaria",
+      "ratingAirPower": "83",
+      "airPower": "66"
+    },
+    {
+      "country": "Georgia",
+      "ratingAirPower": "84",
+      "airPower": "66"
+    },
+    {
+      "country": "Dominican Republic",
+      "ratingAirPower": "85",
+      "airPower": "65"
+    },
+    {
+      "country": "Armenia",
+      "ratingAirPower": "86",
+      "airPower": "64"
+    },
+    {
+      "country": "Bolivia",
+      "ratingAirPower": "87",
+      "airPower": "63"
+    },
+    {
+      "country": "Hungary",
+      "ratingAirPower": "88",
+      "airPower": "55"
+    },
+    {
+      "country": "Slovakia",
+      "ratingAirPower": "89",
+      "airPower": "50"
+    },
+    {
+      "country": "Uruguay",
+      "ratingAirPower": "90",
+      "airPower": "50"
+    },
+    {
+      "country": "Uganda",
+      "ratingAirPower": "91",
+      "airPower": "49"
+    },
+    {
+      "country": "El Salvador",
+      "ratingAirPower": "92",
+      "airPower": "47"
+    },
+    {
+      "country": "New Zealand",
+      "ratingAirPower": "93",
+      "airPower": "47"
+    },
+    {
+      "country": "Botswana",
+      "ratingAirPower": "94",
+      "airPower": "46"
+    },
+    {
+      "country": "Democratic Republic of the Congo",
+      "ratingAirPower": "95",
+      "airPower": "46"
+    },
+    {
+      "country": "Honduras",
+      "ratingAirPower": "96",
+      "airPower": "44"
+    },
+    {
+      "country": "Paraguay",
+      "ratingAirPower": "97",
+      "airPower": "41"
+    },
+    {
+      "country": "Panama",
+      "ratingAirPower": "98",
+      "airPower": "39"
+    },
+    {
+      "country": "Slovenia",
+      "ratingAirPower": "99",
+      "airPower": "37"
+    },
+    {
+      "country": "Tanzania",
+      "ratingAirPower": "100",
+      "airPower": "37"
+    },
+    {
+      "country": "Chad",
+      "ratingAirPower": "101",
+      "airPower": "35"
+    },
+    {
+      "country": "Eritrea",
+      "ratingAirPower": "102",
+      "airPower": "33"
+    },
+    {
+      "country": "Guatemala",
+      "ratingAirPower": "103",
+      "airPower": "33"
+    },
+    {
+      "country": "Laos",
+      "ratingAirPower": "104",
+      "airPower": "32"
+    },
+    {
+      "country": "Cameroon",
+      "ratingAirPower": "105",
+      "airPower": "31"
+    },
+    {
+      "country": "Namibia",
+      "ratingAirPower": "106",
+      "airPower": "30"
+    },
+    {
+      "country": "Mali",
+      "ratingAirPower": "107",
+      "airPower": "29"
+    },
+    {
+      "country": "Mauritania",
+      "ratingAirPower": "108",
+      "airPower": "25"
+    },
+    {
+      "country": "Tajikistan",
+      "ratingAirPower": "109",
+      "airPower": "25"
+    },
+    {
+      "country": "Cambodia",
+      "ratingAirPower": "110",
+      "airPower": "23"
+    },
+    {
+      "country": "Gabon",
+      "ratingAirPower": "111",
+      "airPower": "23"
+    },
+    {
+      "country": "Ireland",
+      "ratingAirPower": "112",
+      "airPower": "23"
+    },
+    {
+      "country": "Moldova",
+      "ratingAirPower": "113",
+      "airPower": "21"
+    },
+    {
+      "country": "Ghana",
+      "ratingAirPower": "114",
+      "airPower": "20"
+    },
+    {
+      "country": "North Macedonia",
+      "ratingAirPower": "115",
+      "airPower": "20"
+    },
+    {
+      "country": "Albania",
+      "ratingAirPower": "116",
+      "airPower": "19"
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "ratingAirPower": "117",
+      "airPower": "19"
+    },
+    {
+      "country": "Burkina Faso",
+      "ratingAirPower": "118",
+      "airPower": "18"
+    },
+    {
+      "country": "Mozambique",
+      "ratingAirPower": "119",
+      "airPower": "18"
+    },
+    {
+      "country": "South Sudan",
+      "ratingAirPower": "120",
+      "airPower": "18"
+    },
+    {
+      "country": "Nicaragua",
+      "ratingAirPower": "121",
+      "airPower": "17"
+    },
+    {
+      "country": "Niger",
+      "ratingAirPower": "122",
+      "airPower": "16"
+    },
+    {
+      "country": "Nepal",
+      "ratingAirPower": "123",
+      "airPower": "14"
+    },
+    {
+      "country": "Republic of the Congo",
+      "ratingAirPower": "124",
+      "airPower": "13"
+    },
+    {
+      "country": "Mongolia",
+      "ratingAirPower": "125",
+      "airPower": "11"
+    },
+    {
+      "country": "Montenegro",
+      "ratingAirPower": "126",
+      "airPower": "11"
+    },
+    {
+      "country": "Lithuania",
+      "ratingAirPower": "127",
+      "airPower": "10"
+    },
+    {
+      "country": "Estonia",
+      "ratingAirPower": "128",
+      "airPower": "6"
+    },
+    {
+      "country": "Kyrgyzstan",
+      "ratingAirPower": "129",
+      "airPower": "6"
+    },
+    {
+      "country": "Ivory Coast",
+      "ratingAirPower": "130",
+      "airPower": "5"
+    },
+    {
+      "country": "Madagascar",
+      "ratingAirPower": "131",
+      "airPower": "5"
+    },
+    {
+      "country": "Latvia",
+      "ratingAirPower": "132",
+      "airPower": "4"
+    },
+    {
+      "country": "Sierra Leone",
+      "ratingAirPower": "133",
+      "airPower": "4"
+    },
+    {
+      "country": "Central African Republic",
+      "ratingAirPower": "134",
+      "airPower": "3"
+    },
+    {
+      "country": "Suriname",
+      "ratingAirPower": "135",
+      "airPower": "3"
+    },
+    {
+      "country": "Bhutan",
+      "ratingAirPower": "136",
+      "airPower": "2"
+    },
+    {
+      "country": "Luxembourg",
+      "ratingAirPower": "137",
+      "airPower": "1"
+    },
+    {
+      "country": "Afghanistan",
+      "ratingAirPower": "138",
+      "airPower": "0"
+    },
+    {
+      "country": "Iceland",
+      "ratingAirPower": "139",
+      "airPower": "0"
+    },
+    {
+      "country": "Kosovo",
+      "ratingAirPower": "140",
+      "airPower": "0"
+    },
+    {
+      "country": "Liberia",
+      "ratingAirPower": "141",
+      "airPower": "0"
+    },
+    {
+      "country": "Somalia",
+      "ratingAirPower": "142",
+      "airPower": "0"
+    }
+  ],
+
+  "armoredVehicle":[
+    {
+      "country": "United States",
+      "ratingArmoredVehicle": "1",
+      "armoredVehicle": "45,193"
+    },
+    {
+      "country": "China",
+      "ratingArmoredVehicle": "2",
+      "armoredVehicle": "35,000"
+    },
+    {
+      "country": "Russia",
+      "ratingArmoredVehicle": "3",
+      "armoredVehicle": "30,122"
+    },
+    {
+      "country": "South Korea",
+      "ratingArmoredVehicle": "4",
+      "armoredVehicle": "13,990"
+    },
+    {
+      "country": "Turkey",
+      "ratingArmoredVehicle": "5",
+      "armoredVehicle": "13,270"
+    },
+    {
+      "country": "Ukraine",
+      "ratingArmoredVehicle": "6",
+      "armoredVehicle": "12,303"
+    },
+    {
+      "country": "India",
+      "ratingArmoredVehicle": "7",
+      "armoredVehicle": "12,000"
+    },
+    {
+      "country": "Egypt",
+      "ratingArmoredVehicle": "8",
+      "armoredVehicle": "10,000"
+    },
+    {
+      "country": "Pakistan",
+      "ratingArmoredVehicle": "9",
+      "armoredVehicle": "9,950"
+    },
+    {
+      "country": "United Arab Emirates",
+      "ratingArmoredVehicle": "10",
+      "armoredVehicle": "9,255"
+    },
+    {
+      "country": "Germany",
+      "ratingArmoredVehicle": "11",
+      "armoredVehicle": "9,217"
+    },
+    {
+      "country": "Israel",
+      "ratingArmoredVehicle": "12",
+      "armoredVehicle": "8,044"
+    },
+    {
+      "country": "Iran",
+      "ratingArmoredVehicle": "13",
+      "armoredVehicle": "7,600"
+    },
+    {
+      "country": "Italy",
+      "ratingArmoredVehicle": "14",
+      "armoredVehicle": "6,908"
+    },
+    {
+      "country": "France",
+      "ratingArmoredVehicle": "15",
+      "armoredVehicle": "6,558"
+    },
+    {
+      "country": "Algeria",
+      "ratingArmoredVehicle": "16",
+      "armoredVehicle": "6,461"
+    },
+    {
+      "country": "Saudi Arabia",
+      "ratingArmoredVehicle": "17",
+      "armoredVehicle": "6,202"
+    },
+    {
+      "country": "Greece",
+      "ratingArmoredVehicle": "18",
+      "armoredVehicle": "6,134"
+    },
+    {
+      "country": "Japan",
+      "ratingArmoredVehicle": "19",
+      "armoredVehicle": "5,500"
+    },
+    {
+      "country": "Syria",
+      "ratingArmoredVehicle": "20",
+      "armoredVehicle": "5,372"
+    },
+    {
+      "country": "Iraq",
+      "ratingArmoredVehicle": "21",
+      "armoredVehicle": "5,050"
+    },
+    {
+      "country": "Spain",
+      "ratingArmoredVehicle": "22",
+      "armoredVehicle": "5,033"
+    },
+    {
+      "country": "United Kingdom",
+      "ratingArmoredVehicle": "23",
+      "armoredVehicle": "5,015"
+    },
+    {
+      "country": "Poland",
+      "ratingArmoredVehicle": "24",
+      "armoredVehicle": "4,786"
+    },
+    {
+      "country": "Vietnam",
+      "ratingArmoredVehicle": "25",
+      "armoredVehicle": "4,420"
+    },
+    {
+      "country": "North Korea",
+      "ratingArmoredVehicle": "26",
+      "armoredVehicle": "4,114"
+    },
+    {
+      "country": "Jordan",
+      "ratingArmoredVehicle": "27",
+      "armoredVehicle": "3,693"
+    },
+    {
+      "country": "Singapore",
+      "ratingArmoredVehicle": "28",
+      "armoredVehicle": "3,517"
+    },
+    {
+      "country": "Morocco",
+      "ratingArmoredVehicle": "29",
+      "armoredVehicle": "3,500"
+    },
+    {
+      "country": "Taiwan",
+      "ratingArmoredVehicle": "30",
+      "armoredVehicle": "3,472"
+    },
+    {
+      "country": "Mexico",
+      "ratingArmoredVehicle": "31",
+      "armoredVehicle": "3,435"
+    },
+    {
+      "country": "Sweden",
+      "ratingArmoredVehicle": "32",
+      "armoredVehicle": "3,371"
+    },
+    {
+      "country": "Qatar",
+      "ratingArmoredVehicle": "33",
+      "armoredVehicle": "3,100"
+    },
+    {
+      "country": "Thailand",
+      "ratingArmoredVehicle": "34",
+      "armoredVehicle": "2,836"
+    },
+    {
+      "country": "Netherlands",
+      "ratingArmoredVehicle": "35",
+      "armoredVehicle": "2,806"
+    },
+    {
+      "country": "South Africa",
+      "ratingArmoredVehicle": "36",
+      "armoredVehicle": "2,565"
+    },
+    {
+      "country": "Venezuela",
+      "ratingArmoredVehicle": "37",
+      "armoredVehicle": "2,534"
+    },
+    {
+      "country": "Libya",
+      "ratingArmoredVehicle": "38",
+      "armoredVehicle": "2,275"
+    },
+    {
+      "country": "Finland",
+      "ratingArmoredVehicle": "39",
+      "armoredVehicle": "2,090"
+    },
+    {
+      "country": "Turkmenistan",
+      "ratingArmoredVehicle": "40",
+      "armoredVehicle": "2,050"
+    },
+    {
+      "country": "Nigeria",
+      "ratingArmoredVehicle": "41",
+      "armoredVehicle": "2,019"
+    },
+    {
+      "country": "Lebanon",
+      "ratingArmoredVehicle": "42",
+      "armoredVehicle": "1,959"
+    },
+    {
+      "country": "Brazil",
+      "ratingArmoredVehicle": "43",
+      "armoredVehicle": "1,958"
+    },
+    {
+      "country": "Australia",
+      "ratingArmoredVehicle": "44",
+      "armoredVehicle": "1,765"
+    },
+    {
+      "country": "Azerbaijan",
+      "ratingArmoredVehicle": "45",
+      "armoredVehicle": "1,762"
+    },
+    {
+      "country": "Malaysia",
+      "ratingArmoredVehicle": "46",
+      "armoredVehicle": "1,708"
+    },
+    {
+      "country": "Myanmar",
+      "ratingArmoredVehicle": "47",
+      "armoredVehicle": "1,587"
+    },
+    {
+      "country": "Cuba",
+      "ratingArmoredVehicle": "48",
+      "armoredVehicle": "1,570"
+    },
+    {
+      "country": "Canada",
+      "ratingArmoredVehicle": "49",
+      "armoredVehicle": "1,534"
+    },
+    {
+      "country": "Belarus",
+      "ratingArmoredVehicle": "50",
+      "armoredVehicle": "1,510"
+    },
+    {
+      "country": "Indonesia",
+      "ratingArmoredVehicle": "51",
+      "armoredVehicle": "1,444"
+    },
+    {
+      "country": "Romania",
+      "ratingArmoredVehicle": "52",
+      "armoredVehicle": "1,392"
+    },
+    {
+      "country": "Switzerland",
+      "ratingArmoredVehicle": "53",
+      "armoredVehicle": "1,339"
+    },
+    {
+      "country": "Kazakhstan",
+      "ratingArmoredVehicle": "54",
+      "armoredVehicle": "1,215"
+    },
+    {
+      "country": "Uzbekistan",
+      "ratingArmoredVehicle": "55",
+      "armoredVehicle": "1,215"
+    },
+    {
+      "country": "Angola",
+      "ratingArmoredVehicle": "56",
+      "armoredVehicle": "1,210"
+    },
+    {
+      "country": "Serbia",
+      "ratingArmoredVehicle": "57",
+      "armoredVehicle": "1,133"
+    },
+    {
+      "country": "Chile",
+      "ratingArmoredVehicle": "58",
+      "armoredVehicle": "1,063"
+    },
+    {
+      "country": "Uganda",
+      "ratingArmoredVehicle": "59",
+      "armoredVehicle": "1,056"
+    },
+    {
+      "country": "Denmark",
+      "ratingArmoredVehicle": "60",
+      "armoredVehicle": "997"
+    },
+    {
+      "country": "Kenya",
+      "ratingArmoredVehicle": "61",
+      "armoredVehicle": "959"
+    },
+    {
+      "country": "Tunisia",
+      "ratingArmoredVehicle": "62",
+      "armoredVehicle": "954"
+    },
+    {
+      "country": "Oman",
+      "ratingArmoredVehicle": "63",
+      "armoredVehicle": "932"
+    },
+    {
+      "country": "Kuwait",
+      "ratingArmoredVehicle": "64",
+      "armoredVehicle": "909"
+    },
+    {
+      "country": "Belgium",
+      "ratingArmoredVehicle": "65",
+      "armoredVehicle": "854"
+    },
+    {
+      "country": "Bangladesh",
+      "ratingArmoredVehicle": "66",
+      "armoredVehicle": "837"
+    },
+    {
+      "country": "Bahrain",
+      "ratingArmoredVehicle": "67",
+      "armoredVehicle": "833"
+    },
+    {
+      "country": "Argentina",
+      "ratingArmoredVehicle": "68",
+      "armoredVehicle": "800"
+    },
+    {
+      "country": "Mongolia",
+      "ratingArmoredVehicle": "69",
+      "armoredVehicle": "770"
+    },
+    {
+      "country": "Portugal",
+      "ratingArmoredVehicle": "70",
+      "armoredVehicle": "725"
+    },
+    {
+      "country": "Norway",
+      "ratingArmoredVehicle": "71",
+      "armoredVehicle": "700"
+    },
+    {
+      "country": "Ecuador",
+      "ratingArmoredVehicle": "72",
+      "armoredVehicle": "698"
+    },
+    {
+      "country": "Czechia",
+      "ratingArmoredVehicle": "73",
+      "armoredVehicle": "692"
+    },
+    {
+      "country": "Chad",
+      "ratingArmoredVehicle": "74",
+      "armoredVehicle": "691"
+    },
+    {
+      "country": "Kyrgyzstan",
+      "ratingArmoredVehicle": "75",
+      "armoredVehicle": "685"
+    },
+    {
+      "country": "Armenia",
+      "ratingArmoredVehicle": "76",
+      "armoredVehicle": "673"
+    },
+    {
+      "country": "Croatia",
+      "ratingArmoredVehicle": "77",
+      "armoredVehicle": "650"
+    },
+    {
+      "country": "Philippines",
+      "ratingArmoredVehicle": "78",
+      "armoredVehicle": "600"
+    },
+    {
+      "country": "Sri Lanka",
+      "ratingArmoredVehicle": "79",
+      "armoredVehicle": "600"
+    },
+    {
+      "country": "Bulgaria",
+      "ratingArmoredVehicle": "80",
+      "armoredVehicle": "594"
+    },
+    {
+      "country": "Lithuania",
+      "ratingArmoredVehicle": "81",
+      "armoredVehicle": "572"
+    },
+    {
+      "country": "Georgia",
+      "ratingArmoredVehicle": "82",
+      "armoredVehicle": "554"
+    },
+    {
+      "country": "Peru",
+      "ratingArmoredVehicle": "83",
+      "armoredVehicle": "552"
+    },
+    {
+      "country": "Austria",
+      "ratingArmoredVehicle": "84",
+      "armoredVehicle": "542"
+    },
+    {
+      "country": "Afghanistan",
+      "ratingArmoredVehicle": "85",
+      "armoredVehicle": "530"
+    },
+    {
+      "country": "Hungary",
+      "ratingArmoredVehicle": "86",
+      "armoredVehicle": "510"
+    },
+    {
+      "country": "New Zealand",
+      "ratingArmoredVehicle": "87",
+      "armoredVehicle": "500"
+    },
+    {
+      "country": "Namibia",
+      "ratingArmoredVehicle": "88",
+      "armoredVehicle": "489"
+    },
+    {
+      "country": "Colombia",
+      "ratingArmoredVehicle": "89",
+      "armoredVehicle": "483"
+    },
+    {
+      "country": "Uruguay",
+      "ratingArmoredVehicle": "90",
+      "armoredVehicle": "474"
+    },
+    {
+      "country": "Slovakia",
+      "ratingArmoredVehicle": "91",
+      "armoredVehicle": "454"
+    },
+    {
+      "country": "Cambodia",
+      "ratingArmoredVehicle": "92",
+      "armoredVehicle": "449"
+    },
+    {
+      "country": "Moldova",
+      "ratingArmoredVehicle": "93",
+      "armoredVehicle": "381"
+    },
+    {
+      "country": "Slovenia",
+      "ratingArmoredVehicle": "94",
+      "armoredVehicle": "380"
+    },
+    {
+      "country": "Ghana",
+      "ratingArmoredVehicle": "95",
+      "armoredVehicle": "343"
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "ratingArmoredVehicle": "96",
+      "armoredVehicle": "332"
+    },
+    {
+      "country": "Zimbabwe",
+      "ratingArmoredVehicle": "97",
+      "armoredVehicle": "318"
+    },
+    {
+      "country": "Mozambique",
+      "ratingArmoredVehicle": "98",
+      "armoredVehicle": "317"
+    },
+    {
+      "country": "Nicaragua",
+      "ratingArmoredVehicle": "99",
+      "armoredVehicle": "300"
+    },
+    {
+      "country": "Yemen",
+      "ratingArmoredVehicle": "100",
+      "armoredVehicle": "300"
+    },
+    {
+      "country": "Latvia",
+      "ratingArmoredVehicle": "101",
+      "armoredVehicle": "297"
+    },
+    {
+      "country": "Nepal",
+      "ratingArmoredVehicle": "102",
+      "armoredVehicle": "277"
+    },
+    {
+      "country": "Burkina Faso",
+      "ratingArmoredVehicle": "103",
+      "armoredVehicle": "265"
+    },
+    {
+      "country": "Mali",
+      "ratingArmoredVehicle": "104",
+      "armoredVehicle": "264"
+    },
+    {
+      "country": "Cameroon",
+      "ratingArmoredVehicle": "105",
+      "armoredVehicle": "253"
+    },
+    {
+      "country": "North Macedonia",
+      "ratingArmoredVehicle": "106",
+      "armoredVehicle": "228"
+    },
+    {
+      "country": "Zambia",
+      "ratingArmoredVehicle": "107",
+      "armoredVehicle": "226"
+    },
+    {
+      "country": "Botswana",
+      "ratingArmoredVehicle": "108",
+      "armoredVehicle": "223"
+    },
+    {
+      "country": "Sudan",
+      "ratingArmoredVehicle": "109",
+      "armoredVehicle": "207"
+    },
+    {
+      "country": "Democratic Republic of the Congo",
+      "ratingArmoredVehicle": "110",
+      "armoredVehicle": "201"
+    },
+    {
+      "country": "Eritrea",
+      "ratingArmoredVehicle": "111",
+      "armoredVehicle": "200"
+    },
+    {
+      "country": "Laos",
+      "ratingArmoredVehicle": "112",
+      "armoredVehicle": "200"
+    },
+    {
+      "country": "Niger",
+      "ratingArmoredVehicle": "113",
+      "armoredVehicle": "182"
+    },
+    {
+      "country": "Republic of the Congo",
+      "ratingArmoredVehicle": "114",
+      "armoredVehicle": "181"
+    },
+    {
+      "country": "Estonia",
+      "ratingArmoredVehicle": "115",
+      "armoredVehicle": "180"
+    },
+    {
+      "country": "Bolivia",
+      "ratingArmoredVehicle": "116",
+      "armoredVehicle": "152"
+    },
+    {
+      "country": "Kosovo",
+      "ratingArmoredVehicle": "117",
+      "armoredVehicle": "152"
+    },
+    {
+      "country": "Gabon",
+      "ratingArmoredVehicle": "118",
+      "armoredVehicle": "150"
+    },
+    {
+      "country": "South Sudan",
+      "ratingArmoredVehicle": "119",
+      "armoredVehicle": "150"
+    },
+    {
+      "country": "Guatemala",
+      "ratingArmoredVehicle": "120",
+      "armoredVehicle": "140"
+    },
+    {
+      "country": "El Salvador",
+      "ratingArmoredVehicle": "121",
+      "armoredVehicle": "125"
+    },
+    {
+      "country": "Ireland",
+      "ratingArmoredVehicle": "122",
+      "armoredVehicle": "122"
+    },
+    {
+      "country": "Ethiopia",
+      "ratingArmoredVehicle": "123",
+      "armoredVehicle": "110"
+    },
+    {
+      "country": "Madagascar",
+      "ratingArmoredVehicle": "124",
+      "armoredVehicle": "109"
+    },
+    {
+      "country": "Mauritania",
+      "ratingArmoredVehicle": "125",
+      "armoredVehicle": "100"
+    },
+    {
+      "country": "Montenegro",
+      "ratingArmoredVehicle": "126",
+      "armoredVehicle": "100"
+    },
+    {
+      "country": "Suriname",
+      "ratingArmoredVehicle": "127",
+      "armoredVehicle": "100"
+    },
+    {
+      "country": "Tajikistan",
+      "ratingArmoredVehicle": "128",
+      "armoredVehicle": "100"
+    },
+    {
+      "country": "Honduras",
+      "ratingArmoredVehicle": "129",
+      "armoredVehicle": "92"
+    },
+    {
+      "country": "Luxembourg",
+      "ratingArmoredVehicle": "130",
+      "armoredVehicle": "90"
+    },
+    {
+      "country": "Central African Republic",
+      "ratingArmoredVehicle": "131",
+      "armoredVehicle": "89"
+    },
+    {
+      "country": "Tanzania",
+      "ratingArmoredVehicle": "132",
+      "armoredVehicle": "89"
+    },
+    {
+      "country": "Ivory Coast",
+      "ratingArmoredVehicle": "133",
+      "armoredVehicle": "85"
+    },
+    {
+      "country": "Albania",
+      "ratingArmoredVehicle": "134",
+      "armoredVehicle": "76"
+    },
+    {
+      "country": "Paraguay",
+      "ratingArmoredVehicle": "135",
+      "armoredVehicle": "75"
+    },
+    {
+      "country": "Somalia",
+      "ratingArmoredVehicle": "136",
+      "armoredVehicle": "65"
+    },
+    {
+      "country": "Liberia",
+      "ratingArmoredVehicle": "137",
+      "armoredVehicle": "50"
+    },
+    {
+      "country": "Panama",
+      "ratingArmoredVehicle": "138",
+      "armoredVehicle": "50"
+    },
+    {
+      "country": "Dominican Republic",
+      "ratingArmoredVehicle": "139",
+      "armoredVehicle": "35"
+    },
+    {
+      "country": "Bhutan",
+      "ratingArmoredVehicle": "140",
+      "armoredVehicle": "27"
+    },
+    {
+      "country": "Sierra Leone",
+      "ratingArmoredVehicle": "141",
+      "armoredVehicle": "20"
+    },
+    {
+      "country": "Iceland",
+      "ratingArmoredVehicle": "142",
+      "armoredVehicle": "0"
+    }
+  ],
+
+  "defenseSpending":[
+    {
+      "country": "United States",
+      "RatingDefenseSpending": "1",
+      "airPower": "$770,000,000,000"
+    },
+    {
+      "country": "China",
+      "RatingDefenseSpending": "2",
+      "airPower": "$230,000,000,000"
+    },
+    {
+      "country": "Russia",
+      "RatingDefenseSpending": "3",
+      "airPower": "$154,000,000,000"
+    },
+    {
+      "country": "United Kingdom",
+      "RatingDefenseSpending": "4",
+      "airPower": "$68,000,000,000"
+    },
+    {
+      "country": "Germany",
+      "RatingDefenseSpending": "5",
+      "airPower": "$50,300,000,000"
+    },
+    {
+      "country": "India",
+      "RatingDefenseSpending": "6",
+      "airPower": "$49,600,000,000"
+    },
+    {
+      "country": "Japan",
+      "RatingDefenseSpending": "7",
+      "airPower": "$47,482,740,000"
+    },
+    {
+      "country": "South Korea",
+      "RatingDefenseSpending": "8",
+      "airPower": "$46,320,000,000"
+    },
+    {
+      "country": "Saudi Arabia",
+      "RatingDefenseSpending": "9",
+      "airPower": "$46,000,000,000"
+    },
+    {
+      "country": "Australia",
+      "RatingDefenseSpending": "10",
+      "airPower": "$44,618,000,000"
+    },
+    {
+      "country": "France",
+      "RatingDefenseSpending": "11",
+      "airPower": "$40,900,000,000"
+    },
+    {
+      "country": "Italy",
+      "RatingDefenseSpending": "12",
+      "airPower": "$29,198,401,050"
+    },
+    {
+      "country": "United Arab Emirates",
+      "RatingDefenseSpending": "13",
+      "airPower": "$25,266,000,000"
+    },
+    {
+      "country": "Canada",
+      "RatingDefenseSpending": "14",
+      "airPower": "$23,550,574,382"
+    },
+    {
+      "country": "Brazil",
+      "RatingDefenseSpending": "15",
+      "airPower": "$18,785,000,000"
+    },
+    {
+      "country": "Israel",
+      "RatingDefenseSpending": "16",
+      "airPower": "$17,800,000,000"
+    },
+    {
+      "country": "Taiwan",
+      "RatingDefenseSpending": "17",
+      "airPower": "$16,800,000,000"
+    },
+    {
+      "country": "Poland",
+      "RatingDefenseSpending": "18",
+      "airPower": "$14,500,000,000"
+    },
+    {
+      "country": "Netherlands",
+      "RatingDefenseSpending": "19",
+      "airPower": "$14,260,000,000"
+    },
+    {
+      "country": "Ukraine",
+      "RatingDefenseSpending": "20",
+      "airPower": "$11,870,000,000"
+    },
+    {
+      "country": "Spain",
+      "RatingDefenseSpending": "21",
+      "airPower": "$11,750,000,000"
+    },
+    {
+      "country": "Singapore",
+      "RatingDefenseSpending": "22",
+      "airPower": "$11,560,000,000"
+    },
+    {
+      "country": "Algeria",
+      "RatingDefenseSpending": "23",
+      "airPower": "$9,700,000,000"
+    },
+    {
+      "country": "Turkey",
+      "RatingDefenseSpending": "24",
+      "airPower": "$9,690,000,000"
+    },
+    {
+      "country": "Indonesia",
+      "RatingDefenseSpending": "25",
+      "airPower": "$9,300,000,000"
+    },
+    {
+      "country": "Sweden",
+      "RatingDefenseSpending": "26",
+      "airPower": "$8,600,000,000"
+    },
+    {
+      "country": "Oman",
+      "RatingDefenseSpending": "27",
+      "airPower": "$8,396,300,000"
+    },
+    {
+      "country": "Norway",
+      "RatingDefenseSpending": "28",
+      "airPower": "$8,300,000,000"
+    },
+    {
+      "country": "Kuwait",
+      "RatingDefenseSpending": "29",
+      "airPower": "$8,172,000,000"
+    },
+    {
+      "country": "Colombia",
+      "RatingDefenseSpending": "30",
+      "airPower": "$8,139,000,000"
+    },
+    {
+      "country": "Pakistan",
+      "RatingDefenseSpending": "31",
+      "airPower": "$7,690,148,664"
+    },
+    {
+      "country": "Iraq",
+      "RatingDefenseSpending": "32",
+      "airPower": "$6,855,200,000"
+    },
+    {
+      "country": "Greece",
+      "RatingDefenseSpending": "33",
+      "airPower": "$6,600,000,000"
+    },
+    {
+      "country": "Mexico",
+      "RatingDefenseSpending": "34",
+      "airPower": "$6,456,000,000"
+    },
+    {
+      "country": "Finland",
+      "RatingDefenseSpending": "35",
+      "airPower": "$6,308,370,000"
+    },
+    {
+      "country": "Vietnam",
+      "RatingDefenseSpending": "36",
+      "airPower": "$6,237,600,000"
+    },
+    {
+      "country": "Switzerland",
+      "RatingDefenseSpending": "37",
+      "airPower": "$5,984,000,000"
+    },
+    {
+      "country": "Nigeria",
+      "RatingDefenseSpending": "38",
+      "airPower": "$5,875,755,689"
+    },
+    {
+      "country": "Qatar",
+      "RatingDefenseSpending": "39",
+      "airPower": "$5,856,000,000"
+    },
+    {
+      "country": "Belgium",
+      "RatingDefenseSpending": "40",
+      "airPower": "$5,513,710,000"
+    },
+    {
+      "country": "Morocco",
+      "RatingDefenseSpending": "41",
+      "airPower": "$5,438,823,613"
+    },
+    {
+      "country": "Romania",
+      "RatingDefenseSpending": "42",
+      "airPower": "$5,148,090,000"
+    },
+    {
+      "country": "Chile",
+      "RatingDefenseSpending": "43",
+      "airPower": "$5,058,000,000"
+    },
+    {
+      "country": "Iran",
+      "RatingDefenseSpending": "44",
+      "airPower": "$5,000,000,000"
+    },
+    {
+      "country": "North Korea",
+      "RatingDefenseSpending": "45",
+      "airPower": "$4,500,000,000"
+    },
+    {
+      "country": "Philippines",
+      "RatingDefenseSpending": "46",
+      "airPower": "$4,390,000,000"
+    },
+    {
+      "country": "Egypt",
+      "RatingDefenseSpending": "47",
+      "airPower": "$4,357,200,000"
+    },
+    {
+      "country": "Denmark",
+      "RatingDefenseSpending": "48",
+      "airPower": "$3,993,096,624"
+    },
+    {
+      "country": "Kazakhstan",
+      "RatingDefenseSpending": "49",
+      "airPower": "$3,900,000,000"
+    },
+    {
+      "country": "Bangladesh",
+      "RatingDefenseSpending": "50",
+      "airPower": "$3,890,400,000"
+    },
+    {
+      "country": "Malaysia",
+      "RatingDefenseSpending": "51",
+      "airPower": "$3,792,819,200"
+    },
+    {
+      "country": "New Zealand",
+      "RatingDefenseSpending": "52",
+      "airPower": "$3,700,000,000"
+    },
+    {
+      "country": "Libya",
+      "RatingDefenseSpending": "53",
+      "airPower": "$3,475,000,000"
+    },
+    {
+      "country": "Austria",
+      "RatingDefenseSpending": "54",
+      "airPower": "$3,432,000,000"
+    },
+    {
+      "country": "Portugal",
+      "RatingDefenseSpending": "55",
+      "airPower": "$3,360,000,000"
+    },
+    {
+      "country": "Hungary",
+      "RatingDefenseSpending": "56",
+      "airPower": "$3,263,999,300"
+    },
+    {
+      "country": "Czechia",
+      "RatingDefenseSpending": "57",
+      "airPower": "$3,262,900,000"
+    },
+    {
+      "country": "Argentina",
+      "RatingDefenseSpending": "58",
+      "airPower": "$3,064,800,000"
+    },
+    {
+      "country": "Cuba",
+      "RatingDefenseSpending": "59",
+      "airPower": "$2,989,900,000"
+    },
+    {
+      "country": "Thailand",
+      "RatingDefenseSpending": "60",
+      "airPower": "$2,933,064,054"
+    },
+    {
+      "country": "South Africa",
+      "RatingDefenseSpending": "61",
+      "airPower": "$2,910,671,379"
+    },
+    {
+      "country": "Myanmar",
+      "RatingDefenseSpending": "62",
+      "airPower": "$2,285,700,000"
+    },
+    {
+      "country": "Ecuador",
+      "RatingDefenseSpending": "63",
+      "airPower": "$2,272,630,000"
+    },
+    {
+      "country": "Croatia",
+      "RatingDefenseSpending": "64",
+      "airPower": "$2,100,000,000"
+    },
+    {
+      "country": "Slovakia",
+      "RatingDefenseSpending": "65",
+      "airPower": "$2,092,000,000"
+    },
+    {
+      "country": "Jordan",
+      "RatingDefenseSpending": "66",
+      "airPower": "$2,053,900,000"
+    },
+    {
+      "country": "Syria",
+      "RatingDefenseSpending": "67",
+      "airPower": "$2,020,500,000"
+    },
+    {
+      "country": "Venezuela",
+      "RatingDefenseSpending": "68",
+      "airPower": "$1,929,600,000"
+    },
+    {
+      "country": "Sri Lanka",
+      "RatingDefenseSpending": "69",
+      "airPower": "$1,860,000,000"
+    },
+    {
+      "country": "Peru",
+      "RatingDefenseSpending": "70",
+      "airPower": "$1,830,000,000"
+    },
+    {
+      "country": "Azerbaijan",
+      "RatingDefenseSpending": "71",
+      "airPower": "$1,700,000,000"
+    },
+    {
+      "country": "Bahrain",
+      "RatingDefenseSpending": "72",
+      "airPower": "$1,538,800,000"
+    },
+    {
+      "country": "Kenya",
+      "RatingDefenseSpending": "73",
+      "airPower": "$1,186,080,000"
+    },
+    {
+      "country": "Tunisia",
+      "RatingDefenseSpending": "74",
+      "airPower": "$1,177,200,000"
+    },
+    {
+      "country": "Lithuania",
+      "RatingDefenseSpending": "75",
+      "airPower": "$1,145,745,000"
+    },
+    {
+      "country": "Bulgaria",
+      "RatingDefenseSpending": "76",
+      "airPower": "$1,105,760,000"
+    },
+    {
+      "country": "Ireland",
+      "RatingDefenseSpending": "77",
+      "airPower": "$1,100,000,000"
+    },
+    {
+      "country": "Uruguay",
+      "RatingDefenseSpending": "78",
+      "airPower": "$1,072,600,000"
+    },
+    {
+      "country": "Angola",
+      "RatingDefenseSpending": "79",
+      "airPower": "$1,059,270,000"
+    },
+    {
+      "country": "Serbia",
+      "RatingDefenseSpending": "80",
+      "airPower": "$1,059,200,000"
+    },
+    {
+      "country": "Yemen",
+      "RatingDefenseSpending": "81",
+      "airPower": "$1,010,070,000"
+    },
+    {
+      "country": "Lebanon",
+      "RatingDefenseSpending": "82",
+      "airPower": "$1,001,400,000"
+    },
+    {
+      "country": "Uganda",
+      "RatingDefenseSpending": "83",
+      "airPower": "$934,250,000"
+    },
+    {
+      "country": "Latvia",
+      "RatingDefenseSpending": "84",
+      "airPower": "$853,758,013"
+    },
+    {
+      "country": "Tanzania",
+      "RatingDefenseSpending": "85",
+      "airPower": "$748,920,000"
+    },
+    {
+      "country": "Panama",
+      "RatingDefenseSpending": "86",
+      "airPower": "$741,160,000"
+    },
+    {
+      "country": "Belarus",
+      "RatingDefenseSpending": "87",
+      "airPower": "$723,120,000"
+    },
+    {
+      "country": "Estonia",
+      "RatingDefenseSpending": "88",
+      "airPower": "$713,690,000"
+    },
+    {
+      "country": "Uzbekistan",
+      "RatingDefenseSpending": "89",
+      "airPower": "$692,520,000"
+    },
+    {
+      "country": "Ivory Coast",
+      "RatingDefenseSpending": "90",
+      "airPower": "$651,000,000"
+    },
+    {
+      "country": "Armenia",
+      "RatingDefenseSpending": "91",
+      "airPower": "$632,500,000"
+    },
+    {
+      "country": "Cambodia",
+      "RatingDefenseSpending": "92",
+      "airPower": "$632,250,000"
+    },
+    {
+      "country": "Dominican Republic",
+      "RatingDefenseSpending": "93",
+      "airPower": "$630,720,000"
+    },
+    {
+      "country": "Mali",
+      "RatingDefenseSpending": "94",
+      "airPower": "$591,260,000"
+    },
+    {
+      "country": "Slovenia",
+      "RatingDefenseSpending": "95",
+      "airPower": "$581,680,000"
+    },
+    {
+      "country": "Ethiopia",
+      "RatingDefenseSpending": "96",
+      "airPower": "$538,000,000"
+    },
+    {
+      "country": "Bolivia",
+      "RatingDefenseSpending": "97",
+      "airPower": "$476,970,000"
+    },
+    {
+      "country": "Botswana",
+      "RatingDefenseSpending": "98",
+      "airPower": "$473,400,000"
+    },
+    {
+      "country": "Nepal",
+      "RatingDefenseSpending": "99",
+      "airPower": "$437,580,000"
+    },
+    {
+      "country": "Burkina Faso",
+      "RatingDefenseSpending": "100",
+      "airPower": "$434,250,000"
+    },
+    {
+      "country": "Luxembourg",
+      "RatingDefenseSpending": "101",
+      "airPower": "$424,260,000"
+    },
+    {
+      "country": "Turkmenistan",
+      "RatingDefenseSpending": "102",
+      "airPower": "$407,070,000"
+    },
+    {
+      "country": "Honduras",
+      "RatingDefenseSpending": "103",
+      "airPower": "$405,110,000"
+    },
+    {
+      "country": "Cameroon",
+      "RatingDefenseSpending": "104",
+      "airPower": "$398,000,000"
+    },
+    {
+      "country": "Guatemala",
+      "RatingDefenseSpending": "105",
+      "airPower": "$388,000,000"
+    },
+    {
+      "country": "Namibia",
+      "RatingDefenseSpending": "106",
+      "airPower": "$363,800,000"
+    },
+    {
+      "country": "Paraguay",
+      "RatingDefenseSpending": "107",
+      "airPower": "$353,000,000"
+    },
+    {
+      "country": "Republic of the Congo",
+      "RatingDefenseSpending": "108",
+      "airPower": "$348,160,000"
+    },
+    {
+      "country": "Democratic Republic of the Congo",
+      "RatingDefenseSpending": "109",
+      "airPower": "$299,220,000"
+    },
+    {
+      "country": "El Salvador",
+      "RatingDefenseSpending": "110",
+      "airPower": "$295,680,000"
+    },
+    {
+      "country": "Chad",
+      "RatingDefenseSpending": "111",
+      "airPower": "$292,610,000"
+    },
+    {
+      "country": "Ghana",
+      "RatingDefenseSpending": "112",
+      "airPower": "$289,400,000"
+    },
+    {
+      "country": "Niger",
+      "RatingDefenseSpending": "113",
+      "airPower": "$287,280,000"
+    },
+    {
+      "country": "Sudan",
+      "RatingDefenseSpending": "114",
+      "airPower": "$287,210,000"
+    },
+    {
+      "country": "Georgia",
+      "RatingDefenseSpending": "115",
+      "airPower": "$286,020,000"
+    },
+    {
+      "country": "Gabon",
+      "RatingDefenseSpending": "116",
+      "airPower": "$280,620,000"
+    },
+    {
+      "country": "South Sudan",
+      "RatingDefenseSpending": "117",
+      "airPower": "$276,000,000"
+    },
+    {
+      "country": "Zambia",
+      "RatingDefenseSpending": "118",
+      "airPower": "$251,160,000"
+    },
+    {
+      "country": "Mauritania",
+      "RatingDefenseSpending": "119",
+      "airPower": "$194,475,000"
+    },
+    {
+      "country": "North Macedonia",
+      "RatingDefenseSpending": "120",
+      "airPower": "$192,639,000"
+    },
+    {
+      "country": "Albania",
+      "RatingDefenseSpending": "121",
+      "airPower": "$192,400,000"
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "RatingDefenseSpending": "122",
+      "airPower": "$178,110,000"
+    },
+    {
+      "country": "Mozambique",
+      "RatingDefenseSpending": "123",
+      "airPower": "$140,200,000"
+    },
+    {
+      "country": "Zimbabwe",
+      "RatingDefenseSpending": "124",
+      "airPower": "$117,390,000"
+    },
+    {
+      "country": "Kyrgyzstan",
+      "RatingDefenseSpending": "125",
+      "airPower": "$116,040,000"
+    },
+    {
+      "country": "Kosovo",
+      "RatingDefenseSpending": "126",
+      "airPower": "$112,479,000"
+    },
+    {
+      "country": "Madagascar",
+      "RatingDefenseSpending": "127",
+      "airPower": "$109,760,000"
+    },
+    {
+      "country": "Eritrea",
+      "RatingDefenseSpending": "128",
+      "airPower": "$105,315,000"
+    },
+    {
+      "country": "Afghanistan",
+      "RatingDefenseSpending": "129",
+      "airPower": "$99,050,000"
+    },
+    {
+      "country": "Mongolia",
+      "RatingDefenseSpending": "130",
+      "airPower": "$91,980,000"
+    },
+    {
+      "country": "Tajikistan",
+      "RatingDefenseSpending": "131",
+      "airPower": "$90,134,000"
+    },
+    {
+      "country": "Nicaragua",
+      "RatingDefenseSpending": "132",
+      "airPower": "$88,340,000"
+    },
+    {
+      "country": "Montenegro",
+      "RatingDefenseSpending": "133",
+      "airPower": "$74,074,500"
+    },
+    {
+      "country": "Somalia",
+      "RatingDefenseSpending": "134",
+      "airPower": "$63,934,000"
+    },
+    {
+      "country": "Moldova",
+      "RatingDefenseSpending": "135",
+      "airPower": "$47,640,000"
+    },
+    {
+      "country": "Suriname",
+      "RatingDefenseSpending": "136",
+      "airPower": "$41,888,000"
+    },
+    {
+      "country": "Central African Republic",
+      "RatingDefenseSpending": "137",
+      "airPower": "$41,454,000"
+    },
+    {
+      "country": "Laos",
+      "RatingDefenseSpending": "138",
+      "airPower": "$38,280,000"
+    },
+    {
+      "country": "Bhutan",
+      "RatingDefenseSpending": "139",
+      "airPower": "$28,908,000"
+    },
+    {
+      "country": "Sierra Leone",
+      "RatingDefenseSpending": "140",
+      "airPower": "$19,325,000"
+    },
+    {
+      "country": "Liberia",
+      "RatingDefenseSpending": "141",
+      "airPower": "$11,800,000"
+    },
+    {
+      "country": "Iceland",
+      "RatingDefenseSpending": "142",
+      "defenseSpending": "$0"
+    }
+  ],
+
+  "manPower":[
+    {
+      "country": "China",
+      "ratingManPower": "1",
+      "manPower": "754,864,769"
+    },
+    {
+      "country": "India",
+      "ratingManPower": "2",
+      "manPower": "629,485,342"
+    },
+    {
+      "country": "United States",
+      "ratingManPower": "3",
+      "manPower": "147,399,295"
+    },
+    {
+      "country": "Indonesia",
+      "ratingManPower": "4",
+      "manPower": "134,809,844"
+    },
+    {
+      "country": "Nigeria",
+      "ratingManPower": "5",
+      "manPower": "116,315,847"
+    },
+    {
+      "country": "Brazil",
+      "ratingManPower": "6",
+      "manPower": "108,857,163"
+    },
+    {
+      "country": "Pakistan",
+      "ratingManPower": "7",
+      "manPower": "102,417,845"
+    },
+    {
+      "country": "Bangladesh",
+      "ratingManPower": "8",
+      "manPower": "80,408,421"
+    },
+    {
+      "country": "Russia",
+      "ratingManPower": "9",
+      "manPower": "69,737,187"
+    },
+    {
+      "country": "Mexico",
+      "ratingManPower": "10",
+      "manPower": "61,197,464"
+    },
+    {
+      "country": "Japan",
+      "ratingManPower": "11",
+      "manPower": "53,615,536"
+    },
+    {
+      "country": "Vietnam",
+      "ratingManPower": "12",
+      "manPower": "53,450,591"
+    },
+    {
+      "country": "Ethiopia",
+      "ratingManPower": "13",
+      "manPower": "53,218,095"
+    },
+    {
+      "country": "Iran",
+      "ratingManPower": "14",
+      "manPower": "48,097,790"
+    },
+    {
+      "country": "Philippines",
+      "ratingManPower": "15",
+      "manPower": "47,651,880"
+    },
+    {
+      "country": "Egypt",
+      "ratingManPower": "16",
+      "manPower": "43,639,269"
+    },
+    {
+      "country": "Turkey",
+      "ratingManPower": "17",
+      "manPower": "42,148,498"
+    },
+    {
+      "country": "Germany",
+      "ratingManPower": "18",
+      "manPower": "36,755,601"
+    },
+    {
+      "country": "Thailand",
+      "ratingManPower": "19",
+      "manPower": "36,129,870"
+    },
+    {
+      "country": "Democratic Republic of the Congo",
+      "ratingManPower": "20",
+      "manPower": "35,715,180"
+    },
+    {
+      "country": "United Kingdom",
+      "ratingManPower": "21",
+      "manPower": "30,857,260"
+    },
+    {
+      "country": "Myanmar",
+      "ratingManPower": "22",
+      "manPower": "30,246,622"
+    },
+    {
+      "country": "France",
+      "ratingManPower": "23",
+      "manPower": "29,957,055"
+    },
+    {
+      "country": "Italy",
+      "ratingManPower": "24",
+      "manPower": "28,075,664"
+    },
+    {
+      "country": "South Africa",
+      "ratingManPower": "25",
+      "manPower": "26,210,172"
+    },
+    {
+      "country": "South Korea",
+      "ratingManPower": "26",
+      "manPower": "25,857,581"
+    },
+    {
+      "country": "Sudan",
+      "ratingManPower": "27",
+      "manPower": "24,778,111"
+    },
+    {
+      "country": "Colombia",
+      "ratingManPower": "28",
+      "manPower": "24,674,269"
+    },
+    {
+      "country": "Ukraine",
+      "ratingManPower": "29",
+      "manPower": "22,310,276"
+    },
+    {
+      "country": "Spain",
+      "ratingManPower": "30",
+      "manPower": "21,739,869"
+    },
+    {
+      "country": "Algeria",
+      "ratingManPower": "31",
+      "manPower": "20,916,812"
+    },
+    {
+      "country": "Kenya",
+      "ratingManPower": "32",
+      "manPower": "20,233,469"
+    },
+    {
+      "country": "Argentina",
+      "ratingManPower": "33",
+      "manPower": "20,180,574"
+    },
+    {
+      "country": "Poland",
+      "ratingManPower": "34",
+      "manPower": "18,711,097"
+    },
+    {
+      "country": "Saudi Arabia",
+      "ratingManPower": "35",
+      "manPower": "18,087,554"
+    },
+    {
+      "country": "Morocco",
+      "ratingManPower": "36",
+      "manPower": "17,549,670"
+    },
+    {
+      "country": "Iraq",
+      "ratingManPower": "37",
+      "manPower": "16,653,061"
+    },
+    {
+      "country": "Canada",
+      "ratingManPower": "38",
+      "manPower": "16,315,589"
+    },
+    {
+      "country": "Uzbekistan",
+      "ratingManPower": "39",
+      "manPower": "16,038,254"
+    },
+    {
+      "country": "Malaysia",
+      "ratingManPower": "40",
+      "manPower": "15,754,121"
+    },
+    {
+      "country": "Peru",
+      "ratingManPower": "41",
+      "manPower": "15,456,588"
+    },
+    {
+      "country": "Uganda",
+      "ratingManPower": "42",
+      "manPower": "15,202,129"
+    },
+    {
+      "country": "Nepal",
+      "ratingManPower": "43",
+      "manPower": "14,908,190"
+    },
+    {
+      "country": "Afghanistan",
+      "ratingManPower": "44",
+      "manPower": "14,611,901"
+    },
+    {
+      "country": "Venezuela",
+      "ratingManPower": "45",
+      "manPower": "14,534,577"
+    },
+    {
+      "country": "Ghana",
+      "ratingManPower": "46",
+      "manPower": "13,920,342"
+    },
+    {
+      "country": "Mozambique",
+      "ratingManPower": "47",
+      "manPower": "13,590,735"
+    },
+    {
+      "country": "Syria",
+      "ratingManPower": "48",
+      "manPower": "13,045,962"
+    },
+    {
+      "country": "Taiwan",
+      "ratingManPower": "49",
+      "manPower": "12,257,467"
+    },
+    {
+      "country": "Yemen",
+      "ratingManPower": "50",
+      "manPower": "11,551,712"
+    },
+    {
+      "country": "Ivory Coast",
+      "ratingManPower": "51",
+      "manPower": "11,516,267"
+    },
+    {
+      "country": "Tanzania",
+      "ratingManPower": "52",
+      "manPower": "11,176,697"
+    },
+    {
+      "country": "Sri Lanka",
+      "ratingManPower": "53",
+      "manPower": "11,061,179"
+    },
+    {
+      "country": "Romania",
+      "ratingManPower": "54",
+      "manPower": "11,039,788"
+    },
+    {
+      "country": "Australia",
+      "ratingManPower": "55",
+      "manPower": "10,840,189"
+    },
+    {
+      "country": "Madagascar",
+      "ratingManPower": "56",
+      "manPower": "10,463,055"
+    },
+    {
+      "country": "Cameroon",
+      "ratingManPower": "57",
+      "manPower": "9,698,220"
+    },
+    {
+      "country": "North Korea",
+      "ratingManPower": "58",
+      "manPower": "9,299,290"
+    },
+    {
+      "country": "Chile",
+      "ratingManPower": "59",
+      "manPower": "8,787,804"
+    },
+    {
+      "country": "Kazakhstan",
+      "ratingManPower": "60",
+      "manPower": "8,660,607"
+    },
+    {
+      "country": "Cambodia",
+      "ratingManPower": "61",
+      "manPower": "8,306,094"
+    },
+    {
+      "country": "Burkina Faso",
+      "ratingManPower": "62",
+      "manPower": "7,911,584"
+    },
+    {
+      "country": "Ecuador",
+      "ratingManPower": "63",
+      "manPower": "7,862,853"
+    },
+    {
+      "country": "Netherlands",
+      "ratingManPower": "64",
+      "manPower": "7,801,831"
+    },
+    {
+      "country": "Guatemala",
+      "ratingManPower": "65",
+      "manPower": "7,143,357"
+    },
+    {
+      "country": "Niger",
+      "ratingManPower": "66",
+      "manPower": "7,081,730"
+    },
+    {
+      "country": "Angola",
+      "ratingManPower": "67",
+      "manPower": "6,728,529"
+    },
+    {
+      "country": "Zambia",
+      "ratingManPower": "68",
+      "manPower": "6,677,236"
+    },
+    {
+      "country": "Chad",
+      "ratingManPower": "69",
+      "manPower": "6,269,079"
+    },
+    {
+      "country": "Mali",
+      "ratingManPower": "70",
+      "manPower": "6,242,633"
+    },
+    {
+      "country": "Cuba",
+      "ratingManPower": "71",
+      "manPower": "5,957,465"
+    },
+    {
+      "country": "Tunisia",
+      "ratingManPower": "72",
+      "manPower": "5,905,668"
+    },
+    {
+      "country": "United Arab Emirates",
+      "ratingManPower": "73",
+      "manPower": "5,716,835"
+    },
+    {
+      "country": "Zimbabwe",
+      "ratingManPower": "74",
+      "manPower": "5,635,395"
+    },
+    {
+      "country": "South Sudan",
+      "ratingManPower": "75",
+      "manPower": "5,492,037"
+    },
+    {
+      "country": "Bolivia",
+      "ratingManPower": "76",
+      "manPower": "5,173,902"
+    },
+    {
+      "country": "Portugal",
+      "ratingManPower": "77",
+      "manPower": "5,172,401"
+    },
+    {
+      "country": "Azerbaijan",
+      "ratingManPower": "78",
+      "manPower": "5,038,319"
+    },
+    {
+      "country": "Czechia",
+      "ratingManPower": "79",
+      "manPower": "5,030,220"
+    },
+    {
+      "country": "Belarus",
+      "ratingManPower": "80",
+      "manPower": "5,004,176"
+    },
+    {
+      "country": "Greece",
+      "ratingManPower": "81",
+      "manPower": "4,967,760"
+    },
+    {
+      "country": "Dominican Republic",
+      "ratingManPower": "82",
+      "manPower": "4,874,780"
+    },
+    {
+      "country": "Belgium",
+      "ratingManPower": "83",
+      "manPower": "4,829,325"
+    },
+    {
+      "country": "Hungary",
+      "ratingManPower": "84",
+      "manPower": "4,572,318"
+    },
+    {
+      "country": "Tajikistan",
+      "ratingManPower": "85",
+      "manPower": "4,135,802"
+    },
+    {
+      "country": "Honduras",
+      "ratingManPower": "86",
+      "manPower": "4,112,362"
+    },
+    {
+      "country": "Sweden",
+      "ratingManPower": "87",
+      "manPower": "4,104,707"
+    },
+    {
+      "country": "Austria",
+      "ratingManPower": "88",
+      "manPower": "3,998,189"
+    },
+    {
+      "country": "Singapore",
+      "ratingManPower": "89",
+      "manPower": "3,812,990"
+    },
+    {
+      "country": "Switzerland",
+      "ratingManPower": "90",
+      "manPower": "3,719,606"
+    },
+    {
+      "country": "Israel",
+      "ratingManPower": "91",
+      "manPower": "3,690,559"
+    },
+    {
+      "country": "Libya",
+      "ratingManPower": "92",
+      "manPower": "3,648,956"
+    },
+    {
+      "country": "Paraguay",
+      "ratingManPower": "93",
+      "manPower": "3,418,140"
+    },
+    {
+      "country": "Serbia",
+      "ratingManPower": "94",
+      "manPower": "3,417,402"
+    },
+    {
+      "country": "Jordan",
+      "ratingManPower": "95",
+      "manPower": "3,381,966"
+    },
+    {
+      "country": "Laos",
+      "ratingManPower": "96",
+      "manPower": "3,332,717"
+    },
+    {
+      "country": "Bulgaria",
+      "ratingManPower": "97",
+      "manPower": "3,252,015"
+    },
+    {
+      "country": "El Salvador",
+      "ratingManPower": "98",
+      "manPower": "3,133,505"
+    },
+    {
+      "country": "Kyrgyzstan",
+      "ratingManPower": "99",
+      "manPower": "3,069,582"
+    },
+    {
+      "country": "Nicaragua",
+      "ratingManPower": "100",
+      "manPower": "3,059,526"
+    },
+    {
+      "country": "Somalia",
+      "ratingManPower": "101",
+      "manPower": "2,781,767"
+    },
+    {
+      "country": "Slovakia",
+      "ratingManPower": "102",
+      "manPower": "2,772,394"
+    },
+    {
+      "country": "Georgia",
+      "ratingManPower": "103",
+      "manPower": "2,762,857"
+    },
+    {
+      "country": "Turkmenistan",
+      "ratingManPower": "104",
+      "manPower": "2,689,506"
+    },
+    {
+      "country": "Denmark",
+      "ratingManPower": "105",
+      "manPower": "2,593,662"
+    },
+    {
+      "country": "Ireland",
+      "ratingManPower": "106",
+      "manPower": "2,403,447"
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "ratingManPower": "107",
+      "manPower": "2,371,365"
+    },
+    {
+      "country": "Liberia",
+      "ratingManPower": "108",
+      "manPower": "2,294,173"
+    },
+    {
+      "country": "Finland",
+      "ratingManPower": "109",
+      "manPower": "2,290,851"
+    },
+    {
+      "country": "Norway",
+      "ratingManPower": "110",
+      "manPower": "2,203,836"
+    },
+    {
+      "country": "Eritrea",
+      "ratingManPower": "111",
+      "manPower": "2,151,589"
+    },
+    {
+      "country": "New Zealand",
+      "ratingManPower": "112",
+      "manPower": "2,146,320"
+    },
+    {
+      "country": "Central African Republic",
+      "ratingManPower": "113",
+      "manPower": "2,089,614"
+    },
+    {
+      "country": "Croatia",
+      "ratingManPower": "114",
+      "manPower": "2,062,397"
+    },
+    {
+      "country": "Lebanon",
+      "ratingManPower": "115",
+      "manPower": "2,051,935"
+    },
+    {
+      "country": "Republic of the Congo",
+      "ratingManPower": "116",
+      "manPower": "2,004,443"
+    },
+    {
+      "country": "Moldova",
+      "ratingManPower": "117",
+      "manPower": "1,994,325"
+    },
+    {
+      "country": "Mongolia",
+      "ratingManPower": "118",
+      "manPower": "1,823,380"
+    },
+    {
+      "country": "Panama",
+      "ratingManPower": "119",
+      "manPower": "1,767,891"
+    },
+    {
+      "country": "Lithuania",
+      "ratingManPower": "120",
+      "manPower": "1,762,518"
+    },
+    {
+      "country": "Armenia",
+      "ratingManPower": "121",
+      "manPower": "1,686,501"
+    },
+    {
+      "country": "Kuwait",
+      "ratingManPower": "122",
+      "manPower": "1,667,636"
+    },
+    {
+      "country": "Mauritania",
+      "ratingManPower": "123",
+      "manPower": "1,590,921"
+    },
+    {
+      "country": "Uruguay",
+      "ratingManPower": "124",
+      "manPower": "1,563,190"
+    },
+    {
+      "country": "Albania",
+      "ratingManPower": "125",
+      "manPower": "1,513,309"
+    },
+    {
+      "country": "Sierra Leone",
+      "ratingManPower": "126",
+      "manPower": "1,497,601"
+    },
+    {
+      "country": "Oman",
+      "ratingManPower": "127",
+      "manPower": "1,404,007"
+    },
+    {
+      "country": "Slovenia",
+      "ratingManPower": "128",
+      "manPower": "1,009,011"
+    },
+    {
+      "country": "Botswana",
+      "ratingManPower": "129",
+      "manPower": "987,280"
+    },
+    {
+      "country": "North Macedonia",
+      "ratingManPower": "130",
+      "manPower": "944,948"
+    },
+    {
+      "country": "Kosovo",
+      "ratingManPower": "131",
+      "manPower": "897,960"
+    },
+    {
+      "country": "Gabon",
+      "ratingManPower": "132",
+      "manPower": "868,267"
+    },
+    {
+      "country": "Latvia",
+      "ratingManPower": "133",
+      "manPower": "838,209"
+    },
+    {
+      "country": "Bahrain",
+      "ratingManPower": "134",
+      "manPower": "824,542"
+    },
+    {
+      "country": "Qatar",
+      "ratingManPower": "135",
+      "manPower": "619,999"
+    },
+    {
+      "country": "Estonia",
+      "ratingManPower": "136",
+      "manPower": "597,821"
+    },
+    {
+      "country": "Namibia",
+      "ratingManPower": "137",
+      "manPower": "589,202"
+    },
+    {
+      "country": "Bhutan",
+      "ratingManPower": "138",
+      "manPower": "197,207"
+    },
+    {
+      "country": "Luxembourg",
+      "ratingManPower": "139",
+      "manPower": "147,105"
+    },
+    {
+      "country": "Suriname",
+      "ratingManPower": "140",
+      "manPower": "135,245"
+    },
+    {
+      "country": "Iceland",
+      "ratingManPower": "141",
+      "manPower": "81,474"
+    },
+    {
+      "country": "Montenegro",
+      "ratingManPower": "142",
+      "manPower": "145"
+    }
+  ],
+
+  "totalPopulation":[
+    {
+      "country": "China",
+      "ratingTotalPopulation": "1",
+      "totalPopulation": "1,397,897,720"
+    },
+    {
+      "country": "India",
+      "ratingTotalPopulation": "2",
+      "totalPopulation": "1,339,330,514"
+    },
+    {
+      "country": "United States",
+      "ratingTotalPopulation": "3",
+      "totalPopulation": "334,998,398"
+    },
+    {
+      "country": "Indonesia",
+      "ratingTotalPopulation": "4",
+      "totalPopulation": "275,122,131"
+    },
+    {
+      "country": "Pakistan",
+      "ratingTotalPopulation": "5",
+      "totalPopulation": "238,181,034"
+    },
+    {
+      "country": "Nigeria",
+      "ratingTotalPopulation": "6",
+      "totalPopulation": "219,463,862"
+    },
+    {
+      "country": "Brazil",
+      "ratingTotalPopulation": "7",
+      "totalPopulation": "213,445,417"
+    },
+    {
+      "country": "Bangladesh",
+      "ratingTotalPopulation": "8",
+      "totalPopulation": "164,098,818"
+    },
+    {
+      "country": "Russia",
+      "ratingTotalPopulation": "9",
+      "totalPopulation": "142,320,790"
+    },
+    {
+      "country": "Mexico",
+      "ratingTotalPopulation": "10",
+      "totalPopulation": "130,207,371"
+    },
+    {
+      "country": "Japan",
+      "ratingTotalPopulation": "11",
+      "totalPopulation": "124,687,293"
+    },
+    {
+      "country": "Ethiopia",
+      "ratingTotalPopulation": "12",
+      "totalPopulation": "110,871,031"
+    },
+    {
+      "country": "Philippines",
+      "ratingTotalPopulation": "13",
+      "totalPopulation": "110,818,325"
+    },
+    {
+      "country": "Egypt",
+      "ratingTotalPopulation": "14",
+      "totalPopulation": "106,437,241"
+    },
+    {
+      "country": "Democratic Republic of the Congo",
+      "ratingTotalPopulation": "15",
+      "totalPopulation": "105,044,646"
+    },
+    {
+      "country": "Vietnam",
+      "ratingTotalPopulation": "16",
+      "totalPopulation": "102,789,598"
+    },
+    {
+      "country": "Iran",
+      "ratingTotalPopulation": "17",
+      "totalPopulation": "85,888,910"
+    },
+    {
+      "country": "Turkey",
+      "ratingTotalPopulation": "18",
+      "totalPopulation": "82,482,383"
+    },
+    {
+      "country": "Germany",
+      "ratingTotalPopulation": "19",
+      "totalPopulation": "79,903,481"
+    },
+    {
+      "country": "Thailand",
+      "ratingTotalPopulation": "20",
+      "totalPopulation": "69,480,520"
+    },
+    {
+      "country": "France",
+      "ratingTotalPopulation": "21",
+      "totalPopulation": "68,084,217"
+    },
+    {
+      "country": "United Kingdom",
+      "ratingTotalPopulation": "22",
+      "totalPopulation": "67,081,000"
+    },
+    {
+      "country": "Italy",
+      "ratingTotalPopulation": "23",
+      "totalPopulation": "62,390,364"
+    },
+    {
+      "country": "Tanzania",
+      "ratingTotalPopulation": "24",
+      "totalPopulation": "62,092,761"
+    },
+    {
+      "country": "Myanmar",
+      "ratingTotalPopulation": "25",
+      "totalPopulation": "57,069,099"
+    },
+    {
+      "country": "South Africa",
+      "ratingTotalPopulation": "26",
+      "totalPopulation": "56,978,635"
+    },
+    {
+      "country": "Kenya",
+      "ratingTotalPopulation": "27",
+      "totalPopulation": "54,685,051"
+    },
+    {
+      "country": "South Korea",
+      "ratingTotalPopulation": "28",
+      "totalPopulation": "51,715,162"
+    },
+    {
+      "country": "Colombia",
+      "ratingTotalPopulation": "29",
+      "totalPopulation": "50,355,650"
+    },
+    {
+      "country": "Spain",
+      "ratingTotalPopulation": "30",
+      "totalPopulation": "47,260,584"
+    },
+    {
+      "country": "Sudan",
+      "ratingTotalPopulation": "31",
+      "totalPopulation": "46,751,152"
+    },
+    {
+      "country": "Argentina",
+      "ratingTotalPopulation": "32",
+      "totalPopulation": "45,864,941"
+    },
+    {
+      "country": "Uganda",
+      "ratingTotalPopulation": "33",
+      "totalPopulation": "44,712,143"
+    },
+    {
+      "country": "Ukraine",
+      "ratingTotalPopulation": "34",
+      "totalPopulation": "43,745,640"
+    },
+    {
+      "country": "Algeria",
+      "ratingTotalPopulation": "35",
+      "totalPopulation": "43,576,691"
+    },
+    {
+      "country": "Iraq",
+      "ratingTotalPopulation": "36",
+      "totalPopulation": "39,650,145"
+    },
+    {
+      "country": "Poland",
+      "ratingTotalPopulation": "37",
+      "totalPopulation": "38,185,913"
+    },
+    {
+      "country": "Canada",
+      "ratingTotalPopulation": "38",
+      "totalPopulation": "37,943,231"
+    },
+    {
+      "country": "Afghanistan",
+      "ratingTotalPopulation": "39",
+      "totalPopulation": "37,466,414"
+    },
+    {
+      "country": "Morocco",
+      "ratingTotalPopulation": "40",
+      "totalPopulation": "36,561,813"
+    },
+    {
+      "country": "Saudi Arabia",
+      "ratingTotalPopulation": "41",
+      "totalPopulation": "34,783,757"
+    },
+    {
+      "country": "Angola",
+      "ratingTotalPopulation": "42",
+      "totalPopulation": "33,642,646"
+    },
+    {
+      "country": "Malaysia",
+      "ratingTotalPopulation": "43",
+      "totalPopulation": "33,519,406"
+    },
+    {
+      "country": "Ghana",
+      "ratingTotalPopulation": "44",
+      "totalPopulation": "32,372,889"
+    },
+    {
+      "country": "Peru",
+      "ratingTotalPopulation": "45",
+      "totalPopulation": "32,201,224"
+    },
+    {
+      "country": "Mozambique",
+      "ratingTotalPopulation": "46",
+      "totalPopulation": "30,888,034"
+    },
+    {
+      "country": "Uzbekistan",
+      "ratingTotalPopulation": "47",
+      "totalPopulation": "30,842,796"
+    },
+    {
+      "country": "Nepal",
+      "ratingTotalPopulation": "48",
+      "totalPopulation": "30,424,878"
+    },
+    {
+      "country": "Yemen",
+      "ratingTotalPopulation": "49",
+      "totalPopulation": "30,399,243"
+    },
+    {
+      "country": "Venezuela",
+      "ratingTotalPopulation": "50",
+      "totalPopulation": "29,069,153"
+    },
+    {
+      "country": "Cameroon",
+      "ratingTotalPopulation": "51",
+      "totalPopulation": "28,524,175"
+    },
+    {
+      "country": "Ivory Coast",
+      "ratingTotalPopulation": "52",
+      "totalPopulation": "28,088,455"
+    },
+    {
+      "country": "Madagascar",
+      "ratingTotalPopulation": "53",
+      "totalPopulation": "27,534,354"
+    },
+    {
+      "country": "North Korea",
+      "ratingTotalPopulation": "54",
+      "totalPopulation": "25,831,360"
+    },
+    {
+      "country": "Australia",
+      "ratingTotalPopulation": "55",
+      "totalPopulation": "25,809,973"
+    },
+    {
+      "country": "Niger",
+      "ratingTotalPopulation": "56",
+      "totalPopulation": "23,605,767"
+    },
+    {
+      "country": "Taiwan",
+      "ratingTotalPopulation": "57",
+      "totalPopulation": "23,572,052"
+    },
+    {
+      "country": "Sri Lanka",
+      "ratingTotalPopulation": "58",
+      "totalPopulation": "23,044,123"
+    },
+    {
+      "country": "Burkina Faso",
+      "ratingTotalPopulation": "59",
+      "totalPopulation": "21,382,659"
+    },
+    {
+      "country": "Romania",
+      "ratingTotalPopulation": "60",
+      "totalPopulation": "21,230,362"
+    },
+    {
+      "country": "Syria",
+      "ratingTotalPopulation": "61",
+      "totalPopulation": "20,384,316"
+    },
+    {
+      "country": "Mali",
+      "ratingTotalPopulation": "62",
+      "totalPopulation": "20,137,527"
+    },
+    {
+      "country": "Kazakhstan",
+      "ratingTotalPopulation": "63",
+      "totalPopulation": "19,245,793"
+    },
+    {
+      "country": "Zambia",
+      "ratingTotalPopulation": "64",
+      "totalPopulation": "19,077,816"
+    },
+    {
+      "country": "Chile",
+      "ratingTotalPopulation": "65",
+      "totalPopulation": "18,307,925"
+    },
+    {
+      "country": "Guatemala",
+      "ratingTotalPopulation": "66",
+      "totalPopulation": "17,422,821"
+    },
+    {
+      "country": "Chad",
+      "ratingTotalPopulation": "67",
+      "totalPopulation": "17,414,108"
+    },
+    {
+      "country": "Netherlands",
+      "ratingTotalPopulation": "68",
+      "totalPopulation": "17,337,403"
+    },
+    {
+      "country": "Cambodia",
+      "ratingTotalPopulation": "69",
+      "totalPopulation": "17,304,363"
+    },
+    {
+      "country": "Ecuador",
+      "ratingTotalPopulation": "70",
+      "totalPopulation": "17,093,159"
+    },
+    {
+      "country": "Zimbabwe",
+      "ratingTotalPopulation": "71",
+      "totalPopulation": "14,829,988"
+    },
+    {
+      "country": "Somalia",
+      "ratingTotalPopulation": "72",
+      "totalPopulation": "12,094,640"
+    },
+    {
+      "country": "Tunisia",
+      "ratingTotalPopulation": "73",
+      "totalPopulation": "11,811,335"
+    },
+    {
+      "country": "Belgium",
+      "ratingTotalPopulation": "74",
+      "totalPopulation": "11,778,842"
+    },
+    {
+      "country": "Bolivia",
+      "ratingTotalPopulation": "75",
+      "totalPopulation": "11,758,869"
+    },
+    {
+      "country": "Cuba",
+      "ratingTotalPopulation": "76",
+      "totalPopulation": "11,032,343"
+    },
+    {
+      "country": "South Sudan",
+      "ratingTotalPopulation": "77",
+      "totalPopulation": "10,984,074"
+    },
+    {
+      "country": "Jordan",
+      "ratingTotalPopulation": "78",
+      "totalPopulation": "10,909,567"
+    },
+    {
+      "country": "Czechia",
+      "ratingTotalPopulation": "79",
+      "totalPopulation": "10,702,596"
+    },
+    {
+      "country": "Dominican Republic",
+      "ratingTotalPopulation": "80",
+      "totalPopulation": "10,597,348"
+    },
+    {
+      "country": "Greece",
+      "ratingTotalPopulation": "81",
+      "totalPopulation": "10,569,703"
+    },
+    {
+      "country": "Portugal",
+      "ratingTotalPopulation": "82",
+      "totalPopulation": "10,344,802"
+    },
+    {
+      "country": "Azerbaijan",
+      "ratingTotalPopulation": "83",
+      "totalPopulation": "10,282,283"
+    },
+    {
+      "country": "Sweden",
+      "ratingTotalPopulation": "84",
+      "totalPopulation": "10,261,767"
+    },
+    {
+      "country": "United Arab Emirates",
+      "ratingTotalPopulation": "85",
+      "totalPopulation": "9,856,612"
+    },
+    {
+      "country": "Hungary",
+      "ratingTotalPopulation": "86",
+      "totalPopulation": "9,728,337"
+    },
+    {
+      "country": "Belarus",
+      "ratingTotalPopulation": "87",
+      "totalPopulation": "9,441,842"
+    },
+    {
+      "country": "Honduras",
+      "ratingTotalPopulation": "88",
+      "totalPopulation": "9,346,277"
+    },
+    {
+      "country": "Tajikistan",
+      "ratingTotalPopulation": "89",
+      "totalPopulation": "8,990,874"
+    },
+    {
+      "country": "Austria",
+      "ratingTotalPopulation": "90",
+      "totalPopulation": "8,884,864"
+    },
+    {
+      "country": "Israel",
+      "ratingTotalPopulation": "91",
+      "totalPopulation": "8,787,045"
+    },
+    {
+      "country": "Switzerland",
+      "ratingTotalPopulation": "92",
+      "totalPopulation": "8,453,650"
+    },
+    {
+      "country": "Laos",
+      "ratingTotalPopulation": "93",
+      "totalPopulation": "7,574,356"
+    },
+    {
+      "country": "Paraguay",
+      "ratingTotalPopulation": "94",
+      "totalPopulation": "7,272,639"
+    },
+    {
+      "country": "Libya",
+      "ratingTotalPopulation": "95",
+      "totalPopulation": "7,017,224"
+    },
+    {
+      "country": "Serbia",
+      "ratingTotalPopulation": "96",
+      "totalPopulation": "6,974,289"
+    },
+    {
+      "country": "Bulgaria",
+      "ratingTotalPopulation": "97",
+      "totalPopulation": "6,919,180"
+    },
+    {
+      "country": "Sierra Leone",
+      "ratingTotalPopulation": "98",
+      "totalPopulation": "6,807,277"
+    },
+    {
+      "country": "El Salvador",
+      "ratingTotalPopulation": "99",
+      "totalPopulation": "6,528,135"
+    },
+    {
+      "country": "Nicaragua",
+      "ratingTotalPopulation": "100",
+      "totalPopulation": "6,243,931"
+    },
+    {
+      "country": "Eritrea",
+      "ratingTotalPopulation": "101",
+      "totalPopulation": "6,147,398"
+    },
+    {
+      "country": "Kyrgyzstan",
+      "ratingTotalPopulation": "102",
+      "totalPopulation": "6,018,789"
+    },
+    {
+      "country": "Denmark",
+      "ratingTotalPopulation": "103",
+      "totalPopulation": "5,894,687"
+    },
+    {
+      "country": "Singapore",
+      "ratingTotalPopulation": "104",
+      "totalPopulation": "5,866,139"
+    },
+    {
+      "country": "Finland",
+      "ratingTotalPopulation": "105",
+      "totalPopulation": "5,587,442"
+    },
+    {
+      "country": "Turkmenistan",
+      "ratingTotalPopulation": "106",
+      "totalPopulation": "5,579,889"
+    },
+    {
+      "country": "Norway",
+      "ratingTotalPopulation": "107",
+      "totalPopulation": "5,509,591"
+    },
+    {
+      "country": "Slovakia",
+      "ratingTotalPopulation": "108",
+      "totalPopulation": "5,436,066"
+    },
+    {
+      "country": "Republic of the Congo",
+      "ratingTotalPopulation": "109",
+      "totalPopulation": "5,417,414"
+    },
+    {
+      "country": "Central African Republic",
+      "ratingTotalPopulation": "110",
+      "totalPopulation": "5,357,984"
+    },
+    {
+      "country": "Lebanon",
+      "ratingTotalPopulation": "111",
+      "totalPopulation": "5,261,372"
+    },
+    {
+      "country": "Ireland",
+      "ratingTotalPopulation": "112",
+      "totalPopulation": "5,224,884"
+    },
+    {
+      "country": "Liberia",
+      "ratingTotalPopulation": "113",
+      "totalPopulation": "5,214,030"
+    },
+    {
+      "country": "New Zealand",
+      "ratingTotalPopulation": "114",
+      "totalPopulation": "4,991,442"
+    },
+    {
+      "country": "Georgia",
+      "ratingTotalPopulation": "115",
+      "totalPopulation": "4,933,674"
+    },
+    {
+      "country": "Croatia",
+      "ratingTotalPopulation": "116",
+      "totalPopulation": "4,208,973"
+    },
+    {
+      "country": "Mauritania",
+      "ratingTotalPopulation": "117",
+      "totalPopulation": "4,079,284"
+    },
+    {
+      "country": "Panama",
+      "ratingTotalPopulation": "118",
+      "totalPopulation": "3,928,646"
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "ratingTotalPopulation": "119",
+      "totalPopulation": "3,824,782"
+    },
+    {
+      "country": "Oman",
+      "ratingTotalPopulation": "120",
+      "totalPopulation": "3,694,755"
+    },
+    {
+      "country": "Uruguay",
+      "ratingTotalPopulation": "121",
+      "totalPopulation": "3,398,239"
+    },
+    {
+      "country": "Moldova",
+      "ratingTotalPopulation": "122",
+      "totalPopulation": "3,323,875"
+    },
+    {
+      "country": "Mongolia",
+      "ratingTotalPopulation": "123",
+      "totalPopulation": "3,198,913"
+    },
+    {
+      "country": "Albania",
+      "ratingTotalPopulation": "124",
+      "totalPopulation": "3,088,385"
+    },
+    {
+      "country": "Kuwait",
+      "ratingTotalPopulation": "125",
+      "totalPopulation": "3,032,065"
+    },
+    {
+      "country": "Armenia",
+      "ratingTotalPopulation": "126",
+      "totalPopulation": "3,011,609"
+    },
+    {
+      "country": "Lithuania",
+      "ratingTotalPopulation": "127",
+      "totalPopulation": "2,711,566"
+    },
+    {
+      "country": "Namibia",
+      "ratingTotalPopulation": "128",
+      "totalPopulation": "2,678,191"
+    },
+    {
+      "country": "Qatar",
+      "ratingTotalPopulation": "129",
+      "totalPopulation": "2,479,995"
+    },
+    {
+      "country": "Botswana",
+      "ratingTotalPopulation": "130",
+      "totalPopulation": "2,350,667"
+    },
+    {
+      "country": "Gabon",
+      "ratingTotalPopulation": "131",
+      "totalPopulation": "2,284,912"
+    },
+    {
+      "country": "North Macedonia",
+      "ratingTotalPopulation": "132",
+      "totalPopulation": "2,128,262"
+    },
+    {
+      "country": "Slovenia",
+      "ratingTotalPopulation": "133",
+      "totalPopulation": "2,102,106"
+    },
+    {
+      "country": "Kosovo",
+      "ratingTotalPopulation": "134",
+      "totalPopulation": "1,935,259"
+    },
+    {
+      "country": "Latvia",
+      "ratingTotalPopulation": "135",
+      "totalPopulation": "1,862,687"
+    },
+    {
+      "country": "Bahrain",
+      "ratingTotalPopulation": "136",
+      "totalPopulation": "1,526,929"
+    },
+    {
+      "country": "Estonia",
+      "ratingTotalPopulation": "137",
+      "totalPopulation": "1,220,042"
+    },
+    {
+      "country": "Bhutan",
+      "ratingTotalPopulation": "138",
+      "totalPopulation": "857,423"
+    },
+    {
+      "country": "Luxembourg",
+      "ratingTotalPopulation": "139",
+      "totalPopulation": "639,589"
+    },
+    {
+      "country": "Suriname",
+      "ratingTotalPopulation": "140",
+      "totalPopulation": "614,749"
+    },
+    {
+      "country": "Montenegro",
+      "ratingTotalPopulation": "141",
+      "totalPopulation": "607,414"
+    },
+    {
+      "country": "Iceland",
+      "ratingTotalPopulation": "142",
+      "totalPopulation": "354,234"
+    }
+  ],
+  
+    "PwrIndx":[
+    {
+    "country": "United States",
+   "ratingPwrIndx": "1",
+    "PwrIndx": "0.0453"
+   },
+   {
+    "country": "Russia",
+   "ratingPwrIndx": "2",
+    "PwrIndx": "0.0501"
+   },
+   {
+    "country": "China",
+   "ratingPwrIndx": "3",
+    "PwrIndx": "0.0511"
+   },
+   {
+    "country": "India",
+   "ratingPwrIndx": "4",
+    "PwrIndx": "0.0979"
+   },
+   {
+    "country": "Japan",
+   "ratingPwrIndx": "5",
+    "PwrIndx": "0.1195"
+   },
+   {
+    "country": "South Korea",
+   "ratingPwrIndx": "6",
+    "PwrIndx": "0.1261"
+   },
+   {
+    "country": "France",
+   "ratingPwrIndx": "7",
+    "PwrIndx": "0.1283"
+   },
+   {
+    "country": "United Kingdom",
+   "ratingPwrIndx": "8",
+    "PwrIndx": "0.1382"
+   },
+   {
+    "country": "Pakistan",
+   "ratingPwrIndx": "9",
+    "PwrIndx": "0.1572"
+   },
+   {
+    "country": "Brazil",
+   "ratingPwrIndx": "10",
+    "PwrIndx": "0.1695"
+   },
+   {
+    "country": "Italy",
+   "ratingPwrIndx": "11",
+    "PwrIndx": "0.1801"
+   },
+   {
+    "country": "Egypt",
+   "ratingPwrIndx": "12",
+    "PwrIndx": "0.1869"
+   },
+   {
+    "country": "Turkey",
+   "ratingPwrIndx": "13",
+    "PwrIndx": "0.1961"
+   },
+   {
+    "country": "Iran",
+   "ratingPwrIndx": "14",
+    "PwrIndx": "0.2104"
+   },
+   {
+    "country": "Indonesia",
+   "ratingPwrIndx": "15",
+    "PwrIndx": "0.2251"
+   },
+   {
+    "country": "Germany",
+   "ratingPwrIndx": "16",
+    "PwrIndx": "0.2322"
+   },
+   {
+    "country": "Australia",
+   "ratingPwrIndx": "17",
+    "PwrIndx": "0.2377"
+   },
+   {
+    "country": "Israel",
+   "ratingPwrIndx": "18",
+    "PwrIndx": "0.2621"
+   },
+   {
+    "country": "Spain",
+   "ratingPwrIndx": "19",
+    "PwrIndx": "0.2901"
+   },
+   {
+    "country": "Saudi Arabia",
+   "ratingPwrIndx": "20",
+    "PwrIndx": "0.2966"
+   },
+   {
+    "country": "Taiwan",
+   "ratingPwrIndx": "21",
+    "PwrIndx": "0.3215"
+   },
+   {
+    "country": "Ukraine",
+   "ratingPwrIndx": "22",
+    "PwrIndx": "0.3266"
+   },
+   {
+    "country": "Canada",
+   "ratingPwrIndx": "23",
+    "PwrIndx": "0.3601"
+   },
+   {
+    "country": "Poland",
+   "ratingPwrIndx": "24",
+    "PwrIndx": "0.4179"
+   },
+   {
+    "country": "Sweden",
+   "ratingPwrIndx": "25",
+    "PwrIndx": "0.4231"
+   },
+   {
+    "country": "South Africa",
+   "ratingPwrIndx": "26",
+    "PwrIndx": "0.4276"
+   },
+   {
+    "country": "Greece",
+   "ratingPwrIndx": "27",
+    "PwrIndx": "0.4506"
+   },
+   {
+    "country": "Vietnam",
+   "ratingPwrIndx": "28",
+    "PwrIndx": "0.4521"
+   },
+   {
+    "country": "Thailand",
+   "ratingPwrIndx": "29",
+    "PwrIndx": "0.4581"
+   },
+   {
+    "country": "North Korea",
+   "ratingPwrIndx": "30",
+    "PwrIndx": "0.4621"
+   },
+   {
+    "country": "Algeria",
+   "ratingPwrIndx": "31",
+    "PwrIndx": "0.4724"
+   },
+   {
+    "country": "Switzerland",
+   "ratingPwrIndx": "32",
+    "PwrIndx": "0.5015"
+   },
+   {
+    "country": "Norway",
+   "ratingPwrIndx": "33",
+    "PwrIndx": "0.5455"
+   },
+   {
+    "country": "Iraq",
+   "ratingPwrIndx": "34",
+    "PwrIndx": "0.5597"
+   },
+   {
+    "country": "Nigeria",
+   "ratingPwrIndx": "35",
+    "PwrIndx": "0.5745"
+   },
+   {
+    "country": "United Arab Emirates",
+   "ratingPwrIndx": "36",
+    "PwrIndx": "0.5859"
+   },
+   {
+    "country": "Netherlands",
+   "ratingPwrIndx": "37",
+    "PwrIndx": "0.5937"
+   },
+   {
+    "country": "Romania",
+   "ratingPwrIndx": "38",
+    "PwrIndx": "0.5938"
+   },
+   {
+    "country": "Myanmar",
+   "ratingPwrIndx": "39",
+    "PwrIndx": "0.5972"
+   },
+   {
+    "country": "Argentina",
+   "ratingPwrIndx": "40",
+    "PwrIndx": "0.6091"
+   },
+   {
+    "country": "Czechia",
+   "ratingPwrIndx": "41",
+    "PwrIndx": "0.6161"
+   },
+   {
+    "country": "Singapore",
+   "ratingPwrIndx": "42",
+    "PwrIndx": "0.6253"
+   },
+   {
+    "country": "Mexico",
+   "ratingPwrIndx": "43",
+    "PwrIndx": "0.6423"
+   },
+   {
+    "country": "Colombia",
+   "ratingPwrIndx": "44",
+    "PwrIndx": "0.6438"
+   },
+   {
+    "country": "Venezuela",
+   "ratingPwrIndx": "45",
+    "PwrIndx": "0.6664"
+   },
+   {
+    "country": "Bangladesh",
+   "ratingPwrIndx": "46",
+    "PwrIndx": "0.6851"
+   },
+   {
+    "country": "Syria",
+   "ratingPwrIndx": "47",
+    "PwrIndx": "0.6953"
+   },
+   {
+    "country": "Malaysia",
+   "ratingPwrIndx": "48",
+    "PwrIndx": "0.7091"
+   },
+   {
+    "country": "Portugal",
+   "ratingPwrIndx": "49",
+    "PwrIndx": "0.7282"
+   },
+   {
+    "country": "Peru",
+   "ratingPwrIndx": "50",
+    "PwrIndx": "0.7453"
+   },
+   {
+    "country": "Philippines",
+   "ratingPwrIndx": "51",
+    "PwrIndx": "0.8076"
+   },
+   {
+    "country": "Belarus",
+   "ratingPwrIndx": "52",
+    "PwrIndx": "0.8124"
+   },
+   {
+    "country": "Finland",
+   "ratingPwrIndx": "53",
+    "PwrIndx": "0.8149"
+   },
+   {
+    "country": "Chile",
+   "ratingPwrIndx": "54",
+    "PwrIndx": "0.8169"
+   },
+   {
+    "country": "Uzbekistan",
+   "ratingPwrIndx": "55",
+    "PwrIndx": "0.8272"
+   },
+   {
+    "country": "Morocco",
+   "ratingPwrIndx": "56",
+    "PwrIndx": "0.8573"
+   },
+   {
+    "country": "Hungary",
+   "ratingPwrIndx": "57",
+    "PwrIndx": "0.8633"
+   },
+   {
+    "country": "Denmark",
+   "ratingPwrIndx": "58",
+    "PwrIndx": "0.8677"
+   },
+   {
+    "country": "Austria",
+   "ratingPwrIndx": "59",
+    "PwrIndx": "0.8924"
+   },
+   {
+    "country": "Slovakia",
+   "ratingPwrIndx": "60",
+    "PwrIndx": "0.9617"
+   },
+   {
+    "country": "Serbia",
+   "ratingPwrIndx": "61",
+    "PwrIndx": "0.9923"
+   },
+   {
+    "country": "Croatia",
+   "ratingPwrIndx": "62",
+    "PwrIndx": "0.9962"
+   },
+   {
+    "country": "Azerbaijan",
+   "ratingPwrIndx": "63",
+    "PwrIndx": "1.0251"
+   },
+   {
+    "country": "Kazakhstan",
+   "ratingPwrIndx": "64",
+    "PwrIndx": "1.0615"
+   },
+   {
+    "country": "Ethiopia",
+   "ratingPwrIndx": "65",
+    "PwrIndx": "1.0798"
+   },
+   {
+    "country": "Angola",
+   "ratingPwrIndx": "66",
+    "PwrIndx": "1.0931"
+   },
+   {
+    "country": "Bulgaria",
+   "ratingPwrIndx": "67",
+    "PwrIndx": "1.1071"
+   },
+   {
+    "country": "Ecuador",
+   "ratingPwrIndx": "68",
+    "PwrIndx": "1.1235"
+   },
+   {
+    "country": "Belgium",
+   "ratingPwrIndx": "69",
+    "PwrIndx": "1.1451"
+   },
+   {
+    "country": "Cuba",
+   "ratingPwrIndx": "70",
+    "PwrIndx": "1.2246"
+   },
+   {
+    "country": "Kuwait",
+   "ratingPwrIndx": "71",
+    "PwrIndx": "1.2988"
+   },
+   {
+    "country": "Libya",
+   "ratingPwrIndx": "72",
+    "PwrIndx": "1.3265"
+   },
+   {
+    "country": "Sudan",
+   "ratingPwrIndx": "73",
+    "PwrIndx": "1.3382"
+   },
+   {
+    "country": "Tunisia",
+   "ratingPwrIndx": "74",
+    "PwrIndx": "1.3664"
+   },
+   {
+    "country": "Jordan",
+   "ratingPwrIndx": "75",
+    "PwrIndx": "1.3989"
+   },
+   {
+    "country": "Democratic Republic of the Congo",
+   "ratingPwrIndx": "76",
+    "PwrIndx": "1.4171"
+   },
+   {
+    "country": "Qatar",
+   "ratingPwrIndx": "77",
+    "PwrIndx": "1.4429"
+   },
+   {
+    "country": "Oman",
+   "ratingPwrIndx": "78",
+    "PwrIndx": "1.4453"
+   },
+   {
+    "country": "Sri Lanka",
+   "ratingPwrIndx": "79",
+    "PwrIndx": "1.4729"
+   },
+   {
+    "country": "Yemen",
+   "ratingPwrIndx": "80",
+    "PwrIndx": "1.4754"
+   },
+   {
+    "country": "Kenya",
+   "ratingPwrIndx": "81",
+    "PwrIndx": "1.5252"
+   },
+   {
+    "country": "Bolivia",
+   "ratingPwrIndx": "82",
+    "PwrIndx": "1.5708"
+   },
+   {
+    "country": "Turkmenistan",
+   "ratingPwrIndx": "83",
+    "PwrIndx": "1.6728"
+   },
+   {
+    "country": "New Zealand",
+   "ratingPwrIndx": "84",
+    "PwrIndx": "1.6836"
+   },
+   {
+    "country": "Lithuania",
+   "ratingPwrIndx": "85",
+    "PwrIndx": "1.7083"
+   },
+   {
+    "country": "Slovenia",
+   "ratingPwrIndx": "86",
+    "PwrIndx": "1.9486"
+   },
+   {
+    "country": "Chad",
+   "ratingPwrIndx": "87",
+    "PwrIndx": "1.9638"
+   },
+   {
+    "country": "Georgia",
+   "ratingPwrIndx": "88",
+    "PwrIndx": "2.0014"
+   },
+   {
+    "country": "Zambia",
+   "ratingPwrIndx": "89",
+    "PwrIndx": "2.1966"
+   },
+   {
+    "country": "Kyrgyzstan",
+   "ratingPwrIndx": "90",
+    "PwrIndx": "2.2011"
+   },
+   {
+    "country": "Guatemala",
+   "ratingPwrIndx": "91",
+    "PwrIndx": "2.2421"
+   },
+   {
+    "country": "Uganda",
+   "ratingPwrIndx": "92",
+    "PwrIndx": "2.2436"
+   },
+   {
+    "country": "Zimbabwe",
+   "ratingPwrIndx": "93",
+    "PwrIndx": "2.2498"
+   },
+   {
+    "country": "Moldova",
+   "ratingPwrIndx": "94",
+    "PwrIndx": "2.2515"
+   },
+   {
+    "country": "Latvia",
+   "ratingPwrIndx": "95",
+    "PwrIndx": "2.2758"
+   },
+   {
+    "country": "Ghana",
+   "ratingPwrIndx": "96",
+    "PwrIndx": "2.3098"
+   },
+   {
+    "country": "Ireland",
+   "ratingPwrIndx": "97",
+    "PwrIndx": "2.3147"
+   },
+   {
+    "country": "Armenia",
+   "ratingPwrIndx": "98",
+    "PwrIndx": "2.3169"
+   },
+   {
+    "country": "Bahrain",
+   "ratingPwrIndx": "99",
+    "PwrIndx": "2.3269"
+   },
+   {
+    "country": "Mali",
+   "ratingPwrIndx": "100",
+    "PwrIndx": "2.3829"
+   },
+   {
+    "country": "Cambodia",
+   "ratingPwrIndx": "101",
+    "PwrIndx": "2.3944"
+   },
+   {
+    "country": "Mongolia",
+   "ratingPwrIndx": "102",
+    "PwrIndx": "2.4318"
+   },
+   {
+    "country": "Uruguay",
+   "ratingPwrIndx": "103",
+    "PwrIndx": "2.4526"
+   },
+   {
+    "country": "South Sudan",
+   "ratingPwrIndx": "104",
+    "PwrIndx": "2.5072"
+   },
+   {
+    "country": "Cameroon",
+   "ratingPwrIndx": "105",
+    "PwrIndx": "2.5771"
+   },
+   {
+    "country": "Niger",
+   "ratingPwrIndx": "106",
+    "PwrIndx": "2.5998"
+   },
+   {
+    "country": "Botswana",
+   "ratingPwrIndx": "107",
+    "PwrIndx": "2.6008"
+   },
+   {
+    "country": "Estonia",
+   "ratingPwrIndx": "108",
+    "PwrIndx": "2.6527"
+   },
+   {
+    "country": "Honduras",
+   "ratingPwrIndx": "109",
+    "PwrIndx": "2.6558"
+   },
+   {
+    "country": "Paraguay",
+   "ratingPwrIndx": "110",
+    "PwrIndx": "2.6873"
+   },
+   {
+    "country": "Tajikistan",
+   "ratingPwrIndx": "111",
+    "PwrIndx": "2.7163"
+   },
+   {
+    "country": "Ivory Coast",
+   "ratingPwrIndx": "112",
+    "PwrIndx": "2.7392"
+   },
+   {
+    "country": "Tanzania",
+   "ratingPwrIndx": "113",
+    "PwrIndx": "2.8437"
+   },
+   {
+    "country": "Lebanon",
+   "ratingPwrIndx": "114",
+    "PwrIndx": "2.8681"
+   },
+   {
+    "country": "Albania",
+   "ratingPwrIndx": "115",
+    "PwrIndx": "3.0023"
+   },
+   {
+    "country": "Mozambique",
+   "ratingPwrIndx": "116",
+    "PwrIndx": "3.1746"
+   },
+   {
+    "country": "Republic of the Congo",
+   "ratingPwrIndx": "117",
+    "PwrIndx": "3.1759"
+   },
+   {
+    "country": "Afghanistan",
+   "ratingPwrIndx": "118",
+    "PwrIndx": "3.3736"
+   },
+   {
+    "country": "Nepal",
+   "ratingPwrIndx": "119",
+    "PwrIndx": "3.4016"
+   },
+   {
+    "country": "Dominican Republic",
+   "ratingPwrIndx": "120",
+    "PwrIndx": "3.5349"
+   },
+   {
+    "country": "Laos",
+   "ratingPwrIndx": "121",
+    "PwrIndx": "3.6906"
+   },
+   {
+    "country": "Nicaragua",
+   "ratingPwrIndx": "122",
+    "PwrIndx": "3.7337"
+   },
+   {
+    "country": "Bosnia and Herzegovina",
+   "ratingPwrIndx": "123",
+    "PwrIndx": "4.0288"
+   },
+   {
+    "country": "Eritrea",
+   "ratingPwrIndx": "124",
+    "PwrIndx": "4.1541"
+   },
+   {
+    "country": "Mauritania",
+   "ratingPwrIndx": "125",
+    "PwrIndx": "4.3067"
+   },
+   {
+    "country": "Namibia",
+   "ratingPwrIndx": "126",
+    "PwrIndx": "4.3496"
+   },
+   {
+    "country": "El Salvador",
+   "ratingPwrIndx": "127",
+    "PwrIndx": "4.3558"
+   },
+   {
+    "country": "Madagascar",
+   "ratingPwrIndx": "128",
+    "PwrIndx": "4.4351"
+   },
+   {
+    "country": "Luxembourg",
+   "ratingPwrIndx": "129",
+    "PwrIndx": "4.4489"
+   },
+   {
+    "country": "Burkina Faso",
+   "ratingPwrIndx": "130",
+    "PwrIndx": "4.7216"
+   },
+   {
+    "country": "Gabon",
+   "ratingPwrIndx": "131",
+    "PwrIndx": "4.7871"
+   },
+   {
+    "country": "Montenegro",
+   "ratingPwrIndx": "132",
+    "PwrIndx": "4.8015"
+   },
+   {
+    "country": "Panama",
+   "ratingPwrIndx": "133",
+    "PwrIndx": "5.0255"
+   },
+   {
+    "country": "Central African Republic",
+   "ratingPwrIndx": "134",
+    "PwrIndx": "5.2184"
+   },
+   {
+    "country": "North Macedonia",
+   "ratingPwrIndx": "135",
+    "PwrIndx": "5.7275"
+   },
+   {
+    "country": "Suriname",
+   "ratingPwrIndx": "136",
+    "PwrIndx": "7.4234"
+   },
+   {
+    "country": "Sierra Leone",
+   "ratingPwrIndx": "137",
+    "PwrIndx": "7.5206"
+   },
+   {
+    "country": "Liberia",
+   "ratingPwrIndx": "138",
+    "PwrIndx": "8.5213"
+   },
+   {
+    "country": "Somalia",
+   "ratingPwrIndx": "139",
+    "PwrIndx": "11.8854"
+   },
+   {
+    "country": "Kosovo",
+   "ratingPwrIndx": "140",
+    "PwrIndx": "13.9136"
+   },
+   {
+    "country": "Bhutan",
+   "ratingPwrIndx": "141",
+    "PwrIndx": "35.8958"
+   },
+   {
+    "country": "Iceland",
+   "ratingPwrIndx": "142",
+    "PwrIndx": "78.6623"
+   }
+    ],
+    "alphabetically":[
+     {
+     "country": "Afghanistan",
+     "id": "1"
+     },
+     {
+     "country": "Albania",
+     "id": "2"
+     },
+     {
+     "country": "Algeria",
+     "id": "3"
+     },
+     {
+     "country": "Angola",
+     "id": "4"
+     },
+     {
+     "country": "Argentina",
+     "id": "5"
+     },
+     {
+     "country": "Armenia",
+     "id": "6"
+     },
+     {
+     "country": "Australia",
+     "id": "7"
+     },
+     {
+     "country": "Austria",
+     "id": "8"
+     },
+     {
+     "country": "Azerbaijan",
+     "id": "9"
+     },
+     {
+     "country": "Bahrain",
+     "id": "10"
+     },
+     {
+     "country": "Bangladesh",
+     "id": "11"
+     },
+     {
+     "country": "Belarus",
+     "id": "12"
+     },
+     {
+     "country": "Belgium",
+     "id": "13"
+     },
+     {
+     "country": "Bhutan",
+     "id": "14"
+     },
+     {
+     "country": "Bolivia",
+     "id": "15"
+     },
+     {
+     "country": "Bosnia and Herzegovina",
+     "id": "16"
+     },
+     {
+     "country": "Botswana",
+     "id": "17"
+     },
+     {
+     "country": "Brazil",
+     "id": "18"
+     },
+     {
+     "country": "Bulgaria",
+     "id": "19"
+     },
+     {
+     "country": "Burkina Faso",
+     "id": "20"
+     },
+     {
+     "country": "Cambodia",
+     "id": "21"
+     },
+     {
+     "country": "Cameroon",
+     "id": "22"
+     },
+     {
+     "country": "Canada",
+     "id": "23"
+     },
+     {
+     "country": "Central African Republic",
+     "id": "24"
+     },
+     {
+     "country": "Chad",
+     "id": "25"
+     },
+     {
+     "country": "Chile",
+     "id": "26"
+     },
+     {
+     "country": "China",
+     "id": "27"
+     },
+     {
+     "country": "Colombia",
+     "id": "28"
+     },
+     {
+     "country": "Croatia",
+     "id": "29"
+     },
+     {
+     "country": "Cuba",
+     "id": "30"
+     },
+     {
+     "country": "Czechia",
+     "id": "31"
+     },
+     {
+     "country": "Democratic Republic of the Congo",
+     "id": "32"
+     },
+     {
+     "country": "Denmark",
+     "id": "33"
+     },
+     {
+     "country": "Dominican Republic",
+     "id": "34"
+     },
+     {
+     "country": "Ecuador",
+     "id": "35"
+     },
+     {
+     "country": "Egypt",
+     "id": "36"
+     },
+     {
+     "country": "El Salvador",
+     "id": "37"
+     },
+     {
+     "country": "Eritrea",
+     "id": "38"
+     },
+     {
+     "country": "Estonia",
+     "id": "39"
+     },
+     {
+     "country": "Ethiopia",
+     "id": "40"
+     },
+     {
+     "country": "Finland",
+     "id": "41"
+     },
+     {
+     "country": "France",
+     "id": "42"
+     },
+     {
+     "country": "Gabon",
+     "id": "43"
+     },
+     {
+     "country": "Georgia",
+     "id": "44"
+     },
+     {
+     "country": "Germany",
+     "id": "45"
+     },
+     {
+     "country": "Ghana",
+     "id": "46"
+     },
+     {
+     "country": "Greece",
+     "id": "47"
+     },
+     {
+     "country": "Guatemala",
+     "id": "48"
+     },
+     {
+     "country": "Honduras",
+     "id": "49"
+     },
+     {
+     "country": "Hungary",
+     "id": "50"
+     },
+     {
+     "country": "Iceland",
+     "id": "51"
+     },
+     {
+     "country": "India",
+     "id": "52"
+     },
+     {
+     "country": "Indonesia",
+     "id": "53"
+     },
+     {
+     "country": "Iran",
+     "id": "54"
+     },
+     {
+     "country": "Iraq",
+     "id": "55"
+     },
+     {
+     "country": "Ireland",
+     "id": "56"
+     },
+     {
+     "country": "Israel",
+     "id": "57"
+     },
+     {
+     "country": "Italy",
+     "id": "58"
+     },
+     {
+     "country": "Ivory Coast",
+     "id": "59"
+     },
+     {
+     "country": "Japan",
+     "id": "60"
+     },
+     {
+     "country": "Jordan",
+     "id": "61"
+     },
+     {
+     "country": "Kazakhstan",
+     "id": "62"
+     },
+     {
+     "country": "Kenya",
+     "id": "63"
+     },
+     {
+     "country": "Kosovo",
+     "id": "64"
+     },
+     {
+     "country": "Kuwait",
+     "id": "65"
+     },
+     {
+     "country": "Kyrgyzstan",
+     "id": "66"
+     },
+     {
+     "country": "Laos",
+     "id": "67"
+     },
+     {
+     "country": "Latvia",
+     "id": "68"
+     },
+     {
+     "country": "Lebanon",
+     "id": "69"
+     },
+     {
+     "country": "Liberia",
+     "id": "70"
+     },
+     {
+     "country": "Libya",
+     "id": "71"
+     },
+     {
+     "country": "Lithuania",
+     "id": "72"
+     },
+     {
+     "country": "Luxembourg",
+     "id": "73"
+     },
+     {
+     "country": "Madagascar",
+     "id": "74"
+     },
+     {
+     "country": "Malaysia",
+     "id": "75"
+     },
+     {
+     "country": "Mali",
+     "id": "76"
+     },
+     {
+     "country": "Mauritania",
+     "id": "77"
+     },
+     {
+     "country": "Mexico",
+     "id": "78"
+     },
+     {
+     "country": "Moldova",
+     "id": "79"
+     },
+     {
+     "country": "Mongolia",
+     "id": "80"
+     },
+     {
+     "country": "Montenegro",
+     "id": "81"
+     },
+     {
+     "country": "Morocco",
+     "id": "82"
+     },
+     {
+     "country": "Mozambique",
+     "id": "83"
+     },
+     {
+     "country": "Myanmar",
+     "id": "84"
+     },
+     {
+     "country": "Namibia",
+     "id": "85"
+     },
+     {
+     "country": "Nepal",
+     "id": "86"
+     },
+     {
+     "country": "Netherlands",
+     "id": "87"
+     },
+     {
+     "country": "New Zealand",
+     "id": "88"
+     },
+     {
+     "country": "Nicaragua",
+     "id": "89"
+     },
+     {
+     "country": "Niger",
+     "id": "90"
+     },
+     {
+     "country": "Nigeria",
+     "id": "91"
+     },
+     {
+     "country": "North Korea",
+     "id": "92"
+     },
+     {
+     "country": "North Macedonia",
+     "id": "93"
+     },
+     {
+     "country": "Norway",
+     "id": "94"
+     },
+     {
+     "country": "Oman",
+     "id": "95"
+     },
+     {
+     "country": "Pakistan",
+     "id": "96"
+     },
+     {
+     "country": "Panama",
+     "id": "97"
+     },
+     {
+     "country": "Paraguay",
+     "id": "98"
+     },
+     {
+     "country": "Peru",
+     "id": "99"
+     },
+     {
+     "country": "Philippines",
+     "id": "100"
+     },
+     {
+     "country": "Poland",
+     "id": "101"
+     },
+     {
+     "country": "Portugal",
+     "id": "102"
+     },
+     {
+     "country": "Qatar",
+     "id": "103"
+     },
+     {
+     "country": "Republic of the Congo",
+     "id": "104"
+     },
+     {
+     "country": "Romania",
+     "id": "105"
+     },
+     {
+     "country": "Russia",
+     "id": "106"
+     },
+     {
+     "country": "Saudi Arabia",
+     "id": "107"
+     },
+     {
+     "country": "Serbia",
+     "id": "108"
+     },
+     {
+     "country": "Sierra Leone",
+     "id": "109"
+     },
+     {
+     "country": "Singapore",
+     "id": "110"
+     },
+     {
+     "country": "Slovakia",
+     "id": "111"
+     },
+     {
+     "country": "Slovenia",
+     "id": "112"
+     },
+     {
+     "country": "Somalia",
+     "id": "113"
+     },
+     {
+     "country": "South Africa",
+     "id": "114"
+     },
+     {
+     "country": "South Korea",
+     "id": "115"
+     },
+     {
+     "country": "South Sudan",
+     "id": "116"
+     },
+     {
+     "country": "Spain",
+     "id": "117"
+     },
+     {
+     "country": "Sri Lanka",
+     "id": "118"
+     },
+     {
+     "country": "Sudan",
+     "id": "119"
+     },
+     {
+     "country": "Suriname",
+     "id": "120"
+     },
+     {
+     "country": "Sweden",
+     "id": "121"
+     },
+     {
+     "country": "Switzerland",
+     "id": "122"
+     },
+     {
+     "country": "Syria",
+     "id": "123"
+     },
+     {
+     "country": "Taiwan",
+     "id": "124"
+     },
+     {
+     "country": "Tajikistan",
+     "id": "125"
+     },
+     {
+     "country": "Tanzania",
+     "id": "126"
+     },
+     {
+     "country": "Thailand",
+     "id": "127"
+     },
+     {
+     "country": "Tunisia",
+     "id": "128"
+     },
+     {
+     "country": "Turkey",
+     "id": "129"
+     },
+     {
+     "country": "Turkmenistan",
+     "id": "130"
+     },
+     {
+     "country": "Uganda",
+     "id": "131"
+     },
+     {
+     "country": "Ukraine",
+     "id": "132"
+     },
+     {
+     "country": "United Arab Emirates",
+     "id": "133"
+     },
+     {
+     "country": "United Kingdom",
+     "id": "134"
+     },
+     {
+     "country": "United States",
+     "id": "135"
+     },
+     {
+     "country": "Uruguay",
+     "id": "136"
+     },
+     {
+     "country": "Uzbekistan",
+     "id": "137"
+     },
+     {
+     "country": "Venezuela",
+     "id": "138"
+     },
+     {
+     "country": "Vietnam",
+     "id": "139"
+     },
+     {
+     "country": "Yemen",
+     "id": "140"
+     },
+     {
+     "country": "Zambia",
+     "id": "141"
+     },
+     {
+     "country": "Zimbabwe",
+     "id": "142"
+     }
+      ],"defenseSpendingObject":[
+        {
+          "country": "United States",
+          "RatingDefenseSpending": "1",
+          "defenseSpending": "$770,000,000,000"
+        },
+        {
+          "country": "China",
+          "RatingDefenseSpending": "2",
+          "defenseSpending": "$230,000,000,000"
+        },
+        {
+          "country": "Russia",
+          "RatingDefenseSpending": "3",
+          "defenseSpending": "$154,000,000,000"
+        },
+        {
+          "country": "United Kingdom",
+          "RatingDefenseSpending": "4",
+          "defenseSpending": "$68,000,000,000"
+        },
+        {
+          "country": "Germany",
+          "RatingDefenseSpending": "5",
+          "defenseSpending": "$50,300,000,000"
+        },
+        {
+          "country": "India",
+          "RatingDefenseSpending": "6",
+          "defenseSpending": "$49,600,000,000"
+        },
+        {
+          "country": "Japan",
+          "RatingDefenseSpending": "7",
+          "defenseSpending": "$47,482,740,000"
+        },
+        {
+          "country": "South Korea",
+          "RatingDefenseSpending": "8",
+          "defenseSpending": "$46,320,000,000"
+        },
+        {
+          "country": "Saudi Arabia",
+          "RatingDefenseSpending": "9",
+          "defenseSpending": "$46,000,000,000"
+        },
+        {
+          "country": "Australia",
+          "RatingDefenseSpending": "10",
+          "defenseSpending": "$44,618,000,000"
+        },
+        {
+          "country": "France",
+          "RatingDefenseSpending": "11",
+          "defenseSpending": "$40,900,000,000"
+        },
+        {
+          "country": "Italy",
+          "RatingDefenseSpending": "12",
+          "defenseSpending": "$29,198,401,050"
+        },
+        {
+          "country": "United Arab Emirates",
+          "RatingDefenseSpending": "13",
+          "defenseSpending": "$25,266,000,000"
+        },
+        {
+          "country": "Canada",
+          "RatingDefenseSpending": "14",
+          "defenseSpending": "$23,550,574,382"
+        },
+        {
+          "country": "Brazil",
+          "RatingDefenseSpending": "15",
+          "defenseSpending": "$18,785,000,000"
+        },
+        {
+          "country": "Israel",
+          "RatingDefenseSpending": "16",
+          "defenseSpending": "$17,800,000,000"
+        },
+        {
+          "country": "Taiwan",
+          "RatingDefenseSpending": "17",
+          "defenseSpending": "$16,800,000,000"
+        },
+        {
+          "country": "Poland",
+          "RatingDefenseSpending": "18",
+          "defenseSpending": "$14,500,000,000"
+        },
+        {
+          "country": "Netherlands",
+          "RatingDefenseSpending": "19",
+          "defenseSpending": "$14,260,000,000"
+        },
+        {
+          "country": "Ukraine",
+          "RatingDefenseSpending": "20",
+          "defenseSpending": "$11,870,000,000"
+        },
+        {
+          "country": "Spain",
+          "RatingDefenseSpending": "21",
+          "defenseSpending": "$11,750,000,000"
+        },
+        {
+          "country": "Singapore",
+          "RatingDefenseSpending": "22",
+          "defenseSpending": "$11,560,000,000"
+        },
+        {
+          "country": "Algeria",
+          "RatingDefenseSpending": "23",
+          "defenseSpending": "$9,700,000,000"
+        },
+        {
+          "country": "Turkey",
+          "RatingDefenseSpending": "24",
+          "defenseSpending": "$9,690,000,000"
+        },
+        {
+          "country": "Indonesia",
+          "RatingDefenseSpending": "25",
+          "defenseSpending": "$9,300,000,000"
+        },
+        {
+          "country": "Sweden",
+          "RatingDefenseSpending": "26",
+          "defenseSpending": "$8,600,000,000"
+        },
+        {
+          "country": "Oman",
+          "RatingDefenseSpending": "27",
+          "defenseSpending": "$8,396,300,000"
+        },
+        {
+          "country": "Norway",
+          "RatingDefenseSpending": "28",
+          "defenseSpending": "$8,300,000,000"
+        },
+        {
+          "country": "Kuwait",
+          "RatingDefenseSpending": "29",
+          "defenseSpending": "$8,172,000,000"
+        },
+        {
+          "country": "Colombia",
+          "RatingDefenseSpending": "30",
+          "defenseSpending": "$8,139,000,000"
+        },
+        {
+          "country": "Pakistan",
+          "RatingDefenseSpending": "31",
+          "defenseSpending": "$7,690,148,664"
+        },
+        {
+          "country": "Iraq",
+          "RatingDefenseSpending": "32",
+          "defenseSpending": "$6,855,200,000"
+        },
+        {
+          "country": "Greece",
+          "RatingDefenseSpending": "33",
+          "defenseSpending": "$6,600,000,000"
+        },
+        {
+          "country": "Mexico",
+          "RatingDefenseSpending": "34",
+          "defenseSpending": "$6,456,000,000"
+        },
+        {
+          "country": "Finland",
+          "RatingDefenseSpending": "35",
+          "defenseSpending": "$6,308,370,000"
+        },
+        {
+          "country": "Vietnam",
+          "RatingDefenseSpending": "36",
+          "defenseSpending": "$6,237,600,000"
+        },
+        {
+          "country": "Switzerland",
+          "RatingDefenseSpending": "37",
+          "defenseSpending": "$5,984,000,000"
+        },
+        {
+          "country": "Nigeria",
+          "RatingDefenseSpending": "38",
+          "defenseSpending": "$5,875,755,689"
+        },
+        {
+          "country": "Qatar",
+          "RatingDefenseSpending": "39",
+          "defenseSpending": "$5,856,000,000"
+        },
+        {
+          "country": "Belgium",
+          "RatingDefenseSpending": "40",
+          "defenseSpending": "$5,513,710,000"
+        },
+        {
+          "country": "Morocco",
+          "RatingDefenseSpending": "41",
+          "defenseSpending": "$5,438,823,613"
+        },
+        {
+          "country": "Romania",
+          "RatingDefenseSpending": "42",
+          "defenseSpending": "$5,148,090,000"
+        },
+        {
+          "country": "Chile",
+          "RatingDefenseSpending": "43",
+          "defenseSpending": "$5,058,000,000"
+        },
+        {
+          "country": "Iran",
+          "RatingDefenseSpending": "44",
+          "defenseSpending": "$5,000,000,000"
+        },
+        {
+          "country": "North Korea",
+          "RatingDefenseSpending": "45",
+          "defenseSpending": "$4,500,000,000"
+        },
+        {
+          "country": "Philippines",
+          "RatingDefenseSpending": "46",
+          "defenseSpending": "$4,390,000,000"
+        },
+        {
+          "country": "Egypt",
+          "RatingDefenseSpending": "47",
+          "defenseSpending": "$4,357,200,000"
+        },
+        {
+          "country": "Denmark",
+          "RatingDefenseSpending": "48",
+          "defenseSpending": "$3,993,096,624"
+        },
+        {
+          "country": "Kazakhstan",
+          "RatingDefenseSpending": "49",
+          "defenseSpending": "$3,900,000,000"
+        },
+        {
+          "country": "Bangladesh",
+          "RatingDefenseSpending": "50",
+          "defenseSpending": "$3,890,400,000"
+        },
+        {
+          "country": "Malaysia",
+          "RatingDefenseSpending": "51",
+          "defenseSpending": "$3,792,819,200"
+        },
+        {
+          "country": "New Zealand",
+          "RatingDefenseSpending": "52",
+          "defenseSpending": "$3,700,000,000"
+        },
+        {
+          "country": "Libya",
+          "RatingDefenseSpending": "53",
+          "defenseSpending": "$3,475,000,000"
+        },
+        {
+          "country": "Austria",
+          "RatingDefenseSpending": "54",
+          "defenseSpending": "$3,432,000,000"
+        },
+        {
+          "country": "Portugal",
+          "RatingDefenseSpending": "55",
+          "defenseSpending": "$3,360,000,000"
+        },
+        {
+          "country": "Hungary",
+          "RatingDefenseSpending": "56",
+          "defenseSpending": "$3,263,999,300"
+        },
+        {
+          "country": "Czechia",
+          "RatingDefenseSpending": "57",
+          "defenseSpending": "$3,262,900,000"
+        },
+        {
+          "country": "Argentina",
+          "RatingDefenseSpending": "58",
+          "defenseSpending": "$3,064,800,000"
+        },
+        {
+          "country": "Cuba",
+          "RatingDefenseSpending": "59",
+          "defenseSpending": "$2,989,900,000"
+        },
+        {
+          "country": "Thailand",
+          "RatingDefenseSpending": "60",
+          "defenseSpending": "$2,933,064,054"
+        },
+        {
+          "country": "South Africa",
+          "RatingDefenseSpending": "61",
+          "defenseSpending": "$2,910,671,379"
+        },
+        {
+          "country": "Myanmar",
+          "RatingDefenseSpending": "62",
+          "defenseSpending": "$2,285,700,000"
+        },
+        {
+          "country": "Ecuador",
+          "RatingDefenseSpending": "63",
+          "defenseSpending": "$2,272,630,000"
+        },
+        {
+          "country": "Croatia",
+          "RatingDefenseSpending": "64",
+          "defenseSpending": "$2,100,000,000"
+        },
+        {
+          "country": "Slovakia",
+          "RatingDefenseSpending": "65",
+          "defenseSpending": "$2,092,000,000"
+        },
+        {
+          "country": "Jordan",
+          "RatingDefenseSpending": "66",
+          "defenseSpending": "$2,053,900,000"
+        },
+        {
+          "country": "Syria",
+          "RatingDefenseSpending": "67",
+          "defenseSpending": "$2,020,500,000"
+        },
+        {
+          "country": "Venezuela",
+          "RatingDefenseSpending": "68",
+          "defenseSpending": "$1,929,600,000"
+        },
+        {
+          "country": "Sri Lanka",
+          "RatingDefenseSpending": "69",
+          "defenseSpending": "$1,860,000,000"
+        },
+        {
+          "country": "Peru",
+          "RatingDefenseSpending": "70",
+          "defenseSpending": "$1,830,000,000"
+        },
+        {
+          "country": "Azerbaijan",
+          "RatingDefenseSpending": "71",
+          "defenseSpending": "$1,700,000,000"
+        },
+        {
+          "country": "Bahrain",
+          "RatingDefenseSpending": "72",
+          "defenseSpending": "$1,538,800,000"
+        },
+        {
+          "country": "Kenya",
+          "RatingDefenseSpending": "73",
+          "defenseSpending": "$1,186,080,000"
+        },
+        {
+          "country": "Tunisia",
+          "RatingDefenseSpending": "74",
+          "defenseSpending": "$1,177,200,000"
+        },
+        {
+          "country": "Lithuania",
+          "RatingDefenseSpending": "75",
+          "defenseSpending": "$1,145,745,000"
+        },
+        {
+          "country": "Bulgaria",
+          "RatingDefenseSpending": "76",
+          "defenseSpending": "$1,105,760,000"
+        },
+        {
+          "country": "Ireland",
+          "RatingDefenseSpending": "77",
+          "defenseSpending": "$1,100,000,000"
+        },
+        {
+          "country": "Uruguay",
+          "RatingDefenseSpending": "78",
+          "defenseSpending": "$1,072,600,000"
+        },
+        {
+          "country": "Angola",
+          "RatingDefenseSpending": "79",
+          "defenseSpending": "$1,059,270,000"
+        },
+        {
+          "country": "Serbia",
+          "RatingDefenseSpending": "80",
+          "defenseSpending": "$1,059,200,000"
+        },
+        {
+          "country": "Yemen",
+          "RatingDefenseSpending": "81",
+          "defenseSpending": "$1,010,070,000"
+        },
+        {
+          "country": "Lebanon",
+          "RatingDefenseSpending": "82",
+          "defenseSpending": "$1,001,400,000"
+        },
+        {
+          "country": "Uganda",
+          "RatingDefenseSpending": "83",
+          "defenseSpending": "$934,250,000"
+        },
+        {
+          "country": "Latvia",
+          "RatingDefenseSpending": "84",
+          "defenseSpending": "$853,758,013"
+        },
+        {
+          "country": "Tanzania",
+          "RatingDefenseSpending": "85",
+          "defenseSpending": "$748,920,000"
+        },
+        {
+          "country": "Panama",
+          "RatingDefenseSpending": "86",
+          "defenseSpending": "$741,160,000"
+        },
+        {
+          "country": "Belarus",
+          "RatingDefenseSpending": "87",
+          "defenseSpending": "$723,120,000"
+        },
+        {
+          "country": "Estonia",
+          "RatingDefenseSpending": "88",
+          "defenseSpending": "$713,690,000"
+        },
+        {
+          "country": "Uzbekistan",
+          "RatingDefenseSpending": "89",
+          "defenseSpending": "$692,520,000"
+        },
+        {
+          "country": "Ivory Coast",
+          "RatingDefenseSpending": "90",
+          "defenseSpending": "$651,000,000"
+        },
+        {
+          "country": "Armenia",
+          "RatingDefenseSpending": "91",
+          "defenseSpending": "$632,500,000"
+        },
+        {
+          "country": "Cambodia",
+          "RatingDefenseSpending": "92",
+          "defenseSpending": "$632,250,000"
+        },
+        {
+          "country": "Dominican Republic",
+          "RatingDefenseSpending": "93",
+          "defenseSpending": "$630,720,000"
+        },
+        {
+          "country": "Mali",
+          "RatingDefenseSpending": "94",
+          "defenseSpending": "$591,260,000"
+        },
+        {
+          "country": "Slovenia",
+          "RatingDefenseSpending": "95",
+          "defenseSpending": "$581,680,000"
+        },
+        {
+          "country": "Ethiopia",
+          "RatingDefenseSpending": "96",
+          "defenseSpending": "$538,000,000"
+        },
+        {
+          "country": "Bolivia",
+          "RatingDefenseSpending": "97",
+          "defenseSpending": "$476,970,000"
+        },
+        {
+          "country": "Botswana",
+          "RatingDefenseSpending": "98",
+          "defenseSpending": "$473,400,000"
+        },
+        {
+          "country": "Nepal",
+          "RatingDefenseSpending": "99",
+          "defenseSpending": "$437,580,000"
+        },
+        {
+          "country": "Burkina Faso",
+          "RatingDefenseSpending": "100",
+          "defenseSpending": "$434,250,000"
+        },
+        {
+          "country": "Luxembourg",
+          "RatingDefenseSpending": "101",
+          "defenseSpending": "$424,260,000"
+        },
+        {
+          "country": "Turkmenistan",
+          "RatingDefenseSpending": "102",
+          "defenseSpending": "$407,070,000"
+        },
+        {
+          "country": "Honduras",
+          "RatingDefenseSpending": "103",
+          "defenseSpending": "$405,110,000"
+        },
+        {
+          "country": "Cameroon",
+          "RatingDefenseSpending": "104",
+          "defenseSpending": "$398,000,000"
+        },
+        {
+          "country": "Guatemala",
+          "RatingDefenseSpending": "105",
+          "defenseSpending": "$388,000,000"
+        },
+        {
+          "country": "Namibia",
+          "RatingDefenseSpending": "106",
+          "defenseSpending": "$363,800,000"
+        },
+        {
+          "country": "Paraguay",
+          "RatingDefenseSpending": "107",
+          "defenseSpending": "$353,000,000"
+        },
+        {
+          "country": "Republic of the Congo",
+          "RatingDefenseSpending": "108",
+          "defenseSpending": "$348,160,000"
+        },
+        {
+          "country": "Democratic Republic of the Congo",
+          "RatingDefenseSpending": "109",
+          "defenseSpending": "$299,220,000"
+        },
+        {
+          "country": "El Salvador",
+          "RatingDefenseSpending": "110",
+          "defenseSpending": "$295,680,000"
+        },
+        {
+          "country": "Chad",
+          "RatingDefenseSpending": "111",
+          "defenseSpending": "$292,610,000"
+        },
+        {
+          "country": "Ghana",
+          "RatingDefenseSpending": "112",
+          "defenseSpending": "$289,400,000"
+        },
+        {
+          "country": "Niger",
+          "RatingDefenseSpending": "113",
+          "defenseSpending": "$287,280,000"
+        },
+        {
+          "country": "Sudan",
+          "RatingDefenseSpending": "114",
+          "defenseSpending": "$287,210,000"
+        },
+        {
+          "country": "Georgia",
+          "RatingDefenseSpending": "115",
+          "defenseSpending": "$286,020,000"
+        },
+        {
+          "country": "Gabon",
+          "RatingDefenseSpending": "116",
+          "defenseSpending": "$280,620,000"
+        },
+        {
+          "country": "South Sudan",
+          "RatingDefenseSpending": "117",
+          "defenseSpending": "$276,000,000"
+        },
+        {
+          "country": "Zambia",
+          "RatingDefenseSpending": "118",
+          "defenseSpending": "$251,160,000"
+        },
+        {
+          "country": "Mauritania",
+          "RatingDefenseSpending": "119",
+          "defenseSpending": "$194,475,000"
+        },
+        {
+          "country": "North Macedonia",
+          "RatingDefenseSpending": "120",
+          "defenseSpending": "$192,639,000"
+        },
+        {
+          "country": "Albania",
+          "RatingDefenseSpending": "121",
+          "defenseSpending": "$192,400,000"
+        },
+        {
+          "country": "Bosnia and Herzegovina",
+          "RatingDefenseSpending": "122",
+          "defenseSpending": "$178,110,000"
+        },
+        {
+          "country": "Mozambique",
+          "RatingDefenseSpending": "123",
+          "defenseSpending": "$140,200,000"
+        },
+        {
+          "country": "Zimbabwe",
+          "RatingDefenseSpending": "124",
+          "defenseSpending": "$117,390,000"
+        },
+        {
+          "country": "Kyrgyzstan",
+          "RatingDefenseSpending": "125",
+          "defenseSpending": "$116,040,000"
+        },
+        {
+          "country": "Kosovo",
+          "RatingDefenseSpending": "126",
+          "defenseSpending": "$112,479,000"
+        },
+        {
+          "country": "Madagascar",
+          "RatingDefenseSpending": "127",
+          "defenseSpending": "$109,760,000"
+        },
+        {
+          "country": "Eritrea",
+          "RatingDefenseSpending": "128",
+          "defenseSpending": "$105,315,000"
+        },
+        {
+          "country": "Afghanistan",
+          "RatingDefenseSpending": "129",
+          "defenseSpending": "$99,050,000"
+        },
+        {
+          "country": "Mongolia",
+          "RatingDefenseSpending": "130",
+          "defenseSpending": "$91,980,000"
+        },
+        {
+          "country": "Tajikistan",
+          "RatingDefenseSpending": "131",
+          "defenseSpending": "$90,134,000"
+        },
+        {
+          "country": "Nicaragua",
+          "RatingDefenseSpending": "132",
+          "defenseSpending": "$88,340,000"
+        },
+        {
+          "country": "Montenegro",
+          "RatingDefenseSpending": "133",
+          "defenseSpending": "$74,074,500"
+        },
+        {
+          "country": "Somalia",
+          "RatingDefenseSpending": "134",
+          "defenseSpending": "$63,934,000"
+        },
+        {
+          "country": "Moldova",
+          "RatingDefenseSpending": "135",
+          "defenseSpending": "$47,640,000"
+        },
+        {
+          "country": "Suriname",
+          "RatingDefenseSpending": "136",
+          "defenseSpending": "$41,888,000"
+        },
+        {
+          "country": "Central African Republic",
+          "RatingDefenseSpending": "137",
+          "defenseSpending": "$41,454,000"
+        },
+        {
+          "country": "Laos",
+          "RatingDefenseSpending": "138",
+          "defenseSpending": "$38,280,000"
+        },
+        {
+          "country": "Bhutan",
+          "RatingDefenseSpending": "139",
+          "defenseSpending": "$28,908,000"
+        },
+        {
+          "country": "Sierra Leone",
+          "RatingDefenseSpending": "140",
+          "defenseSpending": "$19,325,000"
+        },
+        {
+          "country": "Liberia",
+          "RatingDefenseSpending": "141",
+          "defenseSpending": "$11,800,000"
+        },
+        {
+          "country": "Iceland",
+          "RatingDefenseSpending": "142",
+          "defenseSpending": "$0"
+        }
+      ]
+}

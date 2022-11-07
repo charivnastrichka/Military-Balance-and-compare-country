@@ -1,0 +1,123 @@
+main{
+    padding: 20px;
+}
+.info-part-with-img{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.h1_info-part{
+    font-weight: bold;
+    font-size: calc(42px + 6 * ((100vw - 320px)/680));
+    font-weight: 600;
+    display: inline;
+    line-height: 120%;
+    padding-bottom: 3px; 
+}
+.text-under-h1{
+    padding: 30px 0;
+    color: #999;;
+    border-bottom: 1px solid rgb(148, 148, 148);
+}
+.main-text{
+    width: 100%;
+    max-width: 600px;
+    float: left;
+    line-height: 35px;
+    box-sizing: border-box;
+}
+.h3_main-text,.text-bold{
+    font-weight: 600;
+}
+.txt{
+    margin-bottom: 20px;
+}
+.img-earth-div{
+       display: grid;
+    justify-items: right;
+}
+.img-earth{
+    width: 90%;
+    max-width: 600px;
+    border-bottom: 8px solid #036;
+}
+.text-green{
+    color: #090;
+}
+.text-grey{
+    color: #666;
+}
+.text-red{
+    color: #C00;
+}
+.note-text{
+    font-style: italic;
+    user-select: none;
+    font-size: 0.75em;
+    color: #333;
+}
+/* copy */
+.header-over-rating{
+    text-align: center;
+    padding: 20px 0px;
+    width: 100%;
+    border-top: 1px solid black;
+}
+.rating-all-div{
+    display: grid;
+    justify-items: center;
+    width: 100%;
+}
+.rating-elem{
+    width: 100%;
+    max-width: 1400px;
+    display: grid;
+    grid-template:  "num name" 
+                    "img index";
+    grid-template-columns: 50px auto;
+    box-shadow: 0px 4px 8px 0px rgb(0 0 0 / 20%), 0px 6px 20px 0px rgb(0 0 0 / 19%);
+    border: 1px solid rgb(142, 142, 142);
+    margin: 10px 0px;
+
+}
+.rating-num{
+    width: 50px;
+    height: 30px;
+    display: grid;
+    grid-area: num;
+    color: white;
+    text-align: center;
+    background-color: #000;
+    font-size: 20px;
+    padding-top: 15px;
+}
+.country-name{
+    display: grid;
+    grid-area: name;
+    background-image: linear-gradient(to right,#333,#333,#000,#000);
+    color: white;
+    margin-left: 1px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.img-container{
+    display: grid;
+    grid-area: img;
+}
+.pwr-index{
+    display: grid;
+    grid-area: index;
+    padding-left: 10px;
+    padding-top: 5px;  
+}
+    
+@media screen and (max-width:769px){
+    .img-earth{
+        display: none;
+    }
+    #m{
+        display: grid;
+        grid-template-columns: 100%;
+        justify-content: center;
+
+    }
+}

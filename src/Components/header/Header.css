@@ -1,0 +1,76 @@
+body,
+html {
+    /* font-family: "IBM Plex Sans Thai Looped", sans-serif; */
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.header_main-page {
+    background-color: black;
+    width: 100%;
+    height: 70px;
+}
+
+.logo-img {
+    margin: 0px 15px;
+}
+
+.logo-a {
+    border-right: 1px solid rgb(119, 119, 119);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+nav {
+    height: 70px;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    position: fixed;
+    z-index: 50;
+    display: flex;
+    align-items: center;
+}
+
+.menu-name {
+    color: white;
+    font-size: 0.5rem;
+    border-right: 1px solid rgb(119, 119, 119);
+    height: 100%;
+    margin-left: 20px;
+}
+
+.burger-btn {
+    width: 30px;
+    height: 30px;
+    margin-left: 20px;
+    position: relative;
+    cursor: pointer;
+}
+
+.burger-btn:before {
+    content: "";
+    width: 30px;
+    position: absolute;
+    top: 0;
+    background-color: rgb(255, 255, 255);
+    height: 5px;
+}
+
+.burger-btn span {
+    width: 30px;
+    position: absolute;
+    bottom: 0;
+    top: 13px;
+    background-color: rgb(255, 255, 255);
+    height: 4.5px;
+}
+
+.burger-btn:after {
+    content: "";
+    width: 30px;
+    position: absolute;
+    bottom: 0;
+    background-color: rgb(255, 255, 255);
+    height: 4px;
+}
