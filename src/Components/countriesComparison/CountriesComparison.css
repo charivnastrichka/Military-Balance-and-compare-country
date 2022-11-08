@@ -41,7 +41,7 @@
 .country-pwrIndex {
     background-color: black;
     color: rgb(151, 115, 9);
-    width: 160px;
+    max-width: 200px;
     padding: 5px;
     margin-bottom: 5px;
     display: grid;
