@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c8f6960c.css",
+    "main.js": "/static/js/main.fef5fe58.js",
+    "static/js/787.0e31295a.chunk.js": "/static/js/787.0e31295a.chunk.js",
+    "static/media/armoredForces.jpg": "/static/media/armoredForces.c1683df33d21634a09ae.jpg",
+    "static/media/flags-500.jpg": "/static/media/flags-500.f1ee8a94108a6c7a48f7.jpg",
+    "static/media/chengdu-j10-fighter.jpg": "/static/media/chengdu-j10-fighter.250409cb8c69b01b9928.jpg",
+    "static/media/globe.jpg": "/static/media/globe.d3400aca663ee68d3e8e.jpg",
+    "index.html": "/index.html",
+    "main.c8f6960c.css.map": "/static/css/main.c8f6960c.css.map",
+    "main.fef5fe58.js.map": "/static/js/main.fef5fe58.js.map",
+    "787.0e31295a.chunk.js.map": "/static/js/787.0e31295a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8f6960c.css",
+    "static/js/main.fef5fe58.js"
+  ]
+}
